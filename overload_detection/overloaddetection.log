@@ -1,0 +1,1097 @@
+Reset
+Task 1- Release:  0.100, Completion:  0.194, Response: 0.094, WCRT: 0.094, Next Release:  0.400
+Task 2- Release:  0.100, Completion:  0.293, Response: 0.193, WCRT: 0.193, Next Release:  0.500
+Task 3- Release:  0.100, Completion:  0.387, Response: 0.287, WCRT: 0.287, Next Release:  0.700
+Task 1- Release:  0.400, Completion:  0.503, Response: 0.103, WCRT: 0.103, Next Release:  0.700
+Task 2- Release:  0.500, Completion:  0.597, Response: 0.097, WCRT: 0.193, Next Release:  0.900
+Task 1- Release:  0.700, Completion:  0.803, Response: 0.103, WCRT: 0.103, Next Release:  1.000
+Task 3- Release:  0.700, Completion:  0.897, Response: 0.197, WCRT: 0.287, Next Release:  1.300
+Task 2- Release:  0.900, Completion:  1.005, Response: 0.105, WCRT: Task 1- Release:  1.000, Completion:  1.100, Response: 0.100, WCRT: 0.103, Next Release:  1.300
+0.193, Next Release:  1.300
+Task 4- Release:  0.100, Completion:  1.151, Response: 1.051, WCRT: 1.051, Next Release:  1.300
+Reset
+Task 1- Release:  1.300, Completion:  1.403, Response: 0.103, WCRT: 0.103, Next Release:  1.600
+Task 2- Release:  1.300, Completion:  1.497, Response: 0.197, WCRT: 0.197, Next Release:  1.700
+Task 3- Release:  1.300, Completion:  1.592, Response: 0.292, WCRT: 0.292, Next Release:  1.900
+Task 1- Release:  1.600, Completion:  1.704, Response: 0.104, WCRT: 0.104, Next Release:  1.900
+Task 2- Release:  1.700, Completion:  1.797, Response: 0.097, WCRT: 0.197, Next Release:  2.100
+Task 1- Release:  1.900, Completion:  2.001, Response: 0.101, WCRT: 0.104, Next Release:  2.200
+Task 3- Release:  1.900, Completion:  2.095, Response: 0.195, WCRT: 0.292, Next Release:  2.500
+Task 4- Release:  1.300, Completion:  2.151, Response: 0.851, WCRT: 1.051, Next Release:  2.500
+Reset
+Task 1- Release:  2.200, Completion:  3.115, Response: 0.915, WCRT: 0.915, Next Release:  2.500 ==> Task 1 violates Deadline!
+Task 1- Release:  2.500, Completion:  3.210, Response: 0.710, WCRT: 0.915, Next Release:  2.800 ==> Task 1 violates Deadline!
+Task 1- Release:  2.800, Completion:  3.305, Response: 0.505, WCRT: 0.915, Next Release:  3.100 ==> Task 1 violates Deadline!
+Overload detected!
+Task 1- Release:  3.100, Completion:  3.409, Response: 0.309, WCRT: 0.915, Next Release:  3.400 ==> Task 1 violates Deadline!
+Task 1- Release:  3.400, Completion:  3.519, Response: 0.119, WCRT: 0.915, Next Release:  3.700
+Task 2- Release:  2.100, Completion:  3.611, Response: 1.511, WCRT: 1.511, Next Release:  2.500 ==> Task 2 violates Deadline!
+Task 2- Release:  2.500, Completion:  3.703, Response: 1.203, WCRT: 1.511, Next Release:  2.900 ==> Task 2 violates Deadline!
+Task 2- Release:  2.900, Completion:  3.798, Response: 0.898, WCRT: 1.511, Next Release:  3.300 ==> Task 2 violates Deadline!
+Task 2- Release:  3.300, Completion:  3.890, Response: 0.590, WCRT: 1.511, Next Release:  3.700 ==> Task 2 violates Deadline!
+Task 2- Release:  3.700, Completion:  3.982, Response: 0.282, WCRT: 1.511, Next Release:  4.100
+Task 1- Release:  3.700, Completion:  4.110, Response: 0.410, WCRT: 0.915, Next Release:  4.000 ==> Task 1 violates Deadline!
+Task 1- Release:  4.000, Completion:  4.204, Response: 0.204, WCRT: 0.915, Next Release:  4.300
+Task 2- Release:  4.100, Completion:  4.298, Response: 0.198, WCRT: 1.511, Next Release:  4.500
+Task 1- Release:  4.300, Completion:  4.396, Response: 0.096, WCRT: 0.915, Next Release:  4.600
+Task 3- Release:  2.500, Completion:  4.453, Response: 1.953, WCRT: 1.953, Next Release:  3.100 ==> Task 3 violates Deadline!
+Overload detected!
+Task 1- Release:  4.600, Completion:  4.702, Response: 0.102, WCRT: 0.915, Next Release:  4.900
+Task 2- Release:  4.500, Completion:  4.716, Response: 0.216, WCRT: 1.511, Next Release:  4.900
+Task 3- Release:  3.100, Completion:  4.742, Response: 1.642, WCRT: 1.953, Next Release:  3.700 ==> Task 3 violates Deadline!
+Task 3- Release:  3.700, Completion:  4.837, Response: 1.137, WCRT: 1.953, Next Release:  4.300 ==> Task 3 violates Deadline!
+Task 1- Release:  4.900, Completion:  5.001, Response: 0.101, WCRT: 0.915, Next Release:  5.200
+Task 2- Release:  4.900, Completion:  5.097, Response: 0.197, WCRT: 1.511, Next Release:  5.300
+Task 3- Release:  4.300, Completion:  5.143, Response: 0.843, WCRT: 1.953, Next Release:  4.900 ==> Task 3 violates Deadline!
+Task 1- Release:  5.200, Completion:  5.317, Response: 0.117, WCRT: 0.915, Next Release:  5.500
+Task 2- Release:  5.300, Completion:  5.411, Response: 0.111, WCRT: 1.511, Next Release:  5.700
+Task 3- Release:  4.900, Completion:  5.428, Response: 0.528, WCRT: 1.953, Next Release:  5.500
+Task 1- Release:  5.500, Completion:  5.602, Response: 0.102, WCRT: 0.915, Next Release:  5.800
+Task 3- Release:  5.500, Completion:  5.696, Response: 0.196, WCRT: 1.953, Next Release:  6.100
+Overload detected!
+Task 1- Release:  5.800, Completion:  5.906, Response: 0.106, WCRT: 0.915, Next Release:  6.100
+Task 2- Release:  5.700, Completion:  5.907, Response: 0.207, WCRT: 1.511, Next Release:  6.100
+Task 4- Release:  2.500, Completion:  6.007, Response: 3.507, WCRT: 3.507, Next Release:  3.700 ==> Task 4 violates Deadline!
+Task 1- Release:  6.100, Completion:  6.200, Response: 0.100, WCRT: 0.915, Next Release:  6.400
+Task 2- Release:  6.100, Completion:  6.294, Response: 0.194, WCRT: 1.511, Next Release:  6.500
+Task 3- Release:  6.100, Completion:  6.388, Response: 0.288, WCRT: 1.953, Next Release:  6.700
+Task 1- Release:  6.400, Completion:  6.501, Response: 0.101, WCRT: 0.915, Next Release:  6.700
+Task 2- Release:  6.500, Completion:  6.599, Response: 0.099, WCRT: 1.511, Next Release:  6.900
+Task 4- Release:  3.700, Completion:  6.670, Response: 2.970, WCRT: 3.507, Next Release:  4.900 ==> Task 4 violates Deadline!
+Task 1- Release:  6.700, Completion:  6.802, Response: 0.102, WCRT: 0.915, Next Release:  7.000
+Overload detected!
+Task 2- Release:  6.900, Completion:  7.003, Response: 0.103, WCRT: Task 1- Release:  7.000, Completion:  7.110, Response: 0.110, WCRT: 0.915, Next Release:  7.300
+1.511, Next Release:  7.300
+Task 3- Release:  6.700, Completion:  7.115, Response: 0.415, WCRT: 1.953, Next Release:  7.300
+Task 4- Release:  4.900, Completion:  7.266, Response: 2.366, WCRT: 3.507, Next Release:  6.100 ==> Task 4 violates Deadline!
+Task 1- Release:  7.300, Completion:  7.401, Response: 0.101, WCRT: 0.915, Next Release:  7.600
+Task 2- Release:  7.300, Completion:  7.495, Response: 0.195, WCRT: 1.511, Next Release:  7.700
+Task 3- Release:  7.300, Completion:  7.589, Response: 0.289, WCRT: 1.953, Next Release:  7.900
+Task 1- Release:  7.600, Completion:  7.700, Response: 0.100, WCRT: 0.915, Next Release:  7.900
+Task 2- Release:  7.700, Completion:  7.797, Response: 0.097, WCRT: 1.511, Next Release:  8.100
+Task 1- Release:  7.900, Completion:  7.996, Response: 0.096, WCRT: 0.915, Next Release:  8.200
+Task 3- Release:  7.900, Completion:  8.092, Response: 0.192, WCRT: 1.953, Next Release:  8.500
+Overload detected!
+Task 1- Release:  8.200, Completion:  8.295, Response: 0.095, WCRT: 0.915, Next Release:  8.500
+Task 2- Release:  8.100, Completion:  8.296, Response: 0.196, WCRT: 1.511, Next Release:  8.500
+Task 4- Release:  6.100, Completion:  8.313, Response: 2.213, WCRT: 3.507, Next Release:  7.300 ==> Task 4 violates Deadline!
+Task 4- Release:  7.300, Completion:  8.508, Response: Task 1- Release:  8.500, Completion:  8.603, Response: 0.103, WCRT: 0.915, Next Release:  8.800
+Task 2- Release:  8.500, Completion:  8.697, Response: 0.197, WCRT: 1.511, Next Release:  8.900
+Task 3- Release:  8.500, Completion:  8.794, Response: 0.294, WCRT: 1.953, Next Release:  9.100
+1.208, WCRT: 3.507, Next Release:  8.500 ==> Task 4 violates Deadline!
+Task 1- Release:  8.800, Completion:  8.902, Response: 0.102, WCRT: 0.915, Next Release:  9.100
+Task 2- Release:  8.900, Completion:  8.996, Response: 0.096, WCRT: 1.511, Next Release:  9.300
+Task Task 1- Release:  9.100, Completion:  9.267, Response: 0.167, WCRT: 0.915, Next Release:  9.400
+Task 3- Release:  9.100, Completion:  9.358, Response: 0.258, WCRT: 1.953, Next Release:  9.700
+4- Release:  8.500, Completion:  9.173, Response: 0.673, WCRT: 3.507, Next Release:  9.700
+Reset
+Task 1- Release:  9.400, Completion: 10.107, Response: 0.707, WCRT: 0.915, Next Release:  9.700 ==> Task 1 violates Deadline!
+Task 1- Release:  9.700, Completion: 10.202, Response: 0.502, WCRT: 0.915, Next Release: 10.000 ==> Task 1 violates Deadline!
+Task 1- Release: 10.000, Completion: 10.295, Response: 0.295, WCRT: 0.915, Next Release: 10.300
+Task 1- Release: 10.300, Completion: 10.407, Response: 0.107, WCRT: 0.915, Next Release: 10.600
+Task 2- Release:  9.300, Completion: 10.486, Response: 1.186, WCRT: 1.511, Next Release:  9.700 ==> Task 2 violates Deadline!
+Overload detected!
+Task 2- Release:  9.700, Completion: 10.581, Response: 0.881, WCRT: 1.511, Next Release: 10.100 ==> Task 2 violates Deadline!
+Task 1- Release: 10.600, Completion: 10.702, Response: 0.102, WCRT: 0.915, Next Release: 10.900
+Task 2- Release: 10.100, Completion: 10.775, Response: 0.675, WCRT: 1.511, Next Release: 10.500 ==> Task 2 violates Deadline!
+Task 2- Release: 10.500, Completion: 10.881, Response: 0.381, WCRT: 1.511, Next Release: 10.900
+Task 1- Release: 10.900, Completion: 11.001, Response: 0.101, WCRT: 0.915, Next Release: 11.200
+Task 2- Release: 10.900, Completion: 11.095, Response: 0.195, WCRT: 1.511, Next Release: 11.300
+Task 3- Release:  9.700, Completion: 11.164, Response: 1.464, WCRT: 1.953, Next Release: 10.300 ==> Task 3 violates Deadline!
+Task 1- Release: 11.200, Completion: 11.300, Response: 0.100, WCRT: 0.915, Next Release: 11.500
+Task 2- Release: 11.300, Completion: 11.403, Response: 0.103, WCRT: 1.511, Next Release: 11.700
+Task 3- Release: 10.300, Completion: 11.449, Response: 1.149, WCRT: 1.953, Next Release: 10.900 ==> Task 3 violates Deadline!
+Task 1- Release: 11.500, Completion: 11.599, Response: 0.099, WCRT: 0.915, Next Release: 11.800
+Task 3- Release: 10.900, Completion: 11.640, Response: 0.740, WCRT: 1.953, Next Release: 11.500 ==> Task 3 violates Deadline!
+Overload detected!
+Task 1- Release: 11.800, Completion: 11.899, Response: 0.099, WCRT: 0.915, Next Release: 12.100
+Task 2- Release: 11.700, Completion: 11.921, Response: 0.221, WCRT: 1.511, Next Release: 12.100
+Task 3- Release: 11.500, Completion: 11.948, Response: 0.448, WCRT: 1.953, Next Release: 12.100
+Task 1- Release: 12.100, Completion: 12.195, Response: 0.095, WCRT: 0.915, Next Release: 12.400
+Task 2- Release: 12.100, Completion: 12.289, Response: 0.189, WCRT: 1.511, Next Release: 12.500
+Task 3- Release: 12.100, Completion: 12.383, Response: 0.283, WCRT: 1.953, Next Release: 12.700
+Task 1- Release: 12.400, Completion: 12.502, Response: 0.102, WCRT: 0.915, Next Release: 12.700
+Task 2- Release: 12.500, Completion: 12.596, Response: 0.096, WCRT: 1.511, Next Release: 12.900
+Task 4- Release:  9.700, Completion: 12.616, Response: 2.916, WCRT: 3.507, Next Release: 10.900 ==> Task 4 violates Deadline!
+Task 1- Release: 12.700, Completion: 12.805, Response: 0.105, WCRT: 0.915, Next Release: 13.000
+Task 3- Release: 12.700, Completion: 12.900, Response: 0.200, WCRT: 1.953, Next Release: 13.300
+Overload detected!
+Task 2- Release: 12.900, Completion: 12.996, Response: 0.096, WCRT: 1.511, Next Release: 13.300
+Task 1- Release: 13.000, Completion: 13.102, Response: 0.102, WCRT: 0.915, Next Release: 13.300
+Task 4- Release: 10.900, Completion: 13.191, Response: 2.290, WCRT: 3.507, Next Release: 12.100 ==> Task 4 violates Deadline!
+Task 1- Release: 13.300, Completion: 13.400, Response: 0.100, WCRT: 0.915, Next Release: 13.600
+Task 2- Release: 13.300, Completion: 13.495, Response: 0.194, WCRT: 1.511, Next Release: 13.700
+Task 3- Release: 13.300, Completion: 13.590, Response: 0.290, WCRT: 1.953, Next Release: 13.900
+Task 1- Release: 13.600, Completion: 13.698, Response: 0.098, WCRT: 0.915, Next Release: 13.900
+Task 2- Release: 13.700, Completion: 13.801, Response: 0.101, WCRT: 1.511, Next Release: 14.100
+Task 4- Release: 12.100, Completion: 13.855, Response: 1.755, WCRT: 3.507, Next Release: 13.300 ==> Task 4 violates Deadline!
+Task 1- Release: 13.900, Completion: 14.009, Response: 0.109, WCRT: 0.915, Next Release: 14.200
+Task Overload detected!
+Task 1- Release: 14.200, Completion: 14.294, Response: 0.094, WCRT: 0.915, Next Release: 14.500
+Task 2- Release: 14.100, Completion: 14.296, Response: 0.196, WCRT: 1.511, Next Release: 14.500
+3- Release: 13.900, Completion: 14.109, Response: 0.209, WCRT: 1.953, Next Release: 14.500
+Task 4- Release: 13.300, Completion: 14.426, Response: 1.126, WCRT: 3.507, Next Release: 14.500
+Reset
+Task 1- Release: 14.500, Completion: 14.604, Response: 0.104, WCRT: 0.915, Next Release: 14.800
+Task 2- Release: 14.500, Completion: 14.697, Response: 0.197, WCRT: 1.511, Next Release: 14.900
+Task 3- Release: 14.500, Completion: 14.791, Response: 0.291, WCRT: 1.953, Next Release: 15.100
+Task 1- Release: 14.800, Completion: 14.903, Response: 0.103, WCRT: 0.915, Next Release: 15.100
+Task 2- Release: 14.900, Completion: 14.998, Response: 0.098, WCRT: 1.511, Next Release: 15.300
+Task 1- Release: 15.100, Completion: 15.202, Response: 0.102, WCRT: 0.915, Next Release: 15.400
+Task 3- Release: 15.100, Completion: 15.296, Response: 0.196, WCRT: 1.953, Next Release: 15.700
+Task 1- Release: 15.400, Completion: 15.500, Response: 0.100, WCRT: 0.915, Next Release: 15.700
+Task 2- Release: 15.300, Completion: 15.502, Response: 0.202, WCRT: 1.511, Next Release: 15.700
+Task 4- Release: 14.500, Completion: 15.545, Response: 1.045, WCRT: 3.507, Next Release: 15.700
+Reset
+Task 1- Release: 15.700, Completion: 16.112, Response: 0.412, WCRT: 0.915, Next Release: 16.000 ==> Task 1 violates Deadline!
+Task 1- Release: 16.000, Completion: 16.206, Response: 0.206, WCRT: 0.915, Next Release: 16.300
+Task 2- Release: 15.700, Completion: 16.300, Response: 0.600, WCRT: Task 1- Release: 16.300, Completion: 16.395, Response: 0.095, WCRT: 0.915, Next Release: 16.600
+1.511, Next Release: 16.100 ==> Task 2 violates Deadline!
+Task 2- Release: 16.100, Completion: 16.491, Response: 0.391, WCRT: 1.511, Next Release: 16.500
+Task 1- Release: 16.600, Completion: 16.698, Response: 0.098, WCRT: 0.915, Next Release: 16.900
+Task 2- Release: 16.500, Completion: 16.699, Response: 0.199, WCRT: 1.511, Next Release: 16.900
+Overload detected!
+Task 3- Release: 15.700, Completion: 16.793, Response: 1.093, WCRT: 1.953, Next Release: 16.300 ==> Task 3 violates Deadline!
+Task 3- Release: 16.300, Completion: 16.888, Response: 0.588, WCRT: 1.953, Next Release: 16.900
+Task 1- Release: 16.900, Completion: 17.019, Response: 0.119, WCRT: 0.915, Next Release: 17.200
+Task 2- Release: 16.900, Completion: 17.114, Response: 0.214, WCRT: 1.511, Next Release: 17.300
+Task 1- Release: 17.200, Completion: 17.302, Response: 0.102, WCRT: 0.915, Next Release: 17.500
+Task 2- Release: 17.300, Completion: 17.401, Response: 0.101, WCRT: 1.511, Next Release: 17.700
+Task 3- Release: 16.900, Completion: 17.402, Response: 0.502, WCRT: 1.953, Next Release: 17.500
+Task 1- Release: 17.500, Completion: 17.616, Response: 0.116, WCRT: 0.915, Next Release: 17.800
+Task 1- Release: 17.800, Completion: 17.903, Response: 0.103, WCRT: 0.915, Next Release: 18.100
+Task 2- Release: 17.700, Completion: 17.909, Response: 0.209, WCRT: 1.511, Next Release: 18.100
+Task 3- Release: 17.500, Completion: 17.924, Response: 0.424, WCRT: 1.953, Next Release: 18.100
+Overload detected!
+Task 4- Release: 15.700, Completion: 17.994, Response: 2.294, WCRT: 3.507, Next Release: 16.900 ==> Task 4 violates Deadline!
+Task 1- Release: 18.100, Completion: 18.198, Response: 0.098, WCRT: 0.915, Next Release: 18.400
+Task 2- Release: 18.100, Completion: 18.292, Response: 0.192, WCRT: 1.511, Next Release: 18.500
+Task 3- Release: 18.100, Completion: 18.388, Response: 0.288, WCRT: 1.953, Next Release: 18.700
+Task 1- Release: 18.400, Completion: 18.496, Response: 0.096, WCRT: 0.915, Next Release: 18.700
+Task 2- Release: 18.500, Completion: 18.601, Response: 0.101, WCRT: 1.511, Next Release: 18.900
+Task 4- Release: 16.900, Completion: 18.659, Response: 1.758, WCRT: 3.507, Next Release: 18.100 ==> Task 4 violates Deadline!
+Task 1- Release: 18.700, Completion: 18.795, Response: 0.095, WCRT: 0.915, Next Release: 19.000
+Task 3- Release: 18.700, Completion: 18.894, Response: 0.193, WCRT: 1.953, Next Release: 19.300
+Task 2- Release: 18.900, Completion: 19.001, Response: Task 1- Release: 19.000, Completion: 19.095, Response: 0.095, WCRT: 0.915, Next Release: 19.300
+0.101, WCRT: 1.511, Next Release: 19.300
+Overload detected!
+Task 4- Release: 18.100, Completion: 19.236, Response: 1.136, WCRT: 3.507, Next Release: 19.300
+Reset
+Task 1- Release: 19.300, Completion: 19.408, Response: 0.108, WCRT: 0.915, Next Release: 19.600
+Task 2- Release: 19.300, Completion: 19.507, Response: 0.207, WCRT: 1.511, Next Release: 19.700
+Task 3- Release: 19.300Task 1- Release: 19.600, Completion: 19.704, Response: 0.104, WCRT: 0.915, Next Release: 19.900
+Task 2- Release: 19.700, Completion: 19.803, Response: 0.103, WCRT: 1.511, Next Release: 20.100
+, Completion: 19.604, Response: 0.304, WCRT: 1.953, Next Release: 19.900
+Task 1- Release: 19.900, Completion: 19.996, Response: 0.096, WCRT: 0.915, Next Release: 20.200
+Task 3- Release: 19.900, Completion: 20.089, Response: 0.189, WCRT: 1.953, Next Release: 20.500
+Task 4- Release: 19.300, Completion: 20.181, Response: 0.881, WCRT: 3.507, Next Release: 20.500
+Reset
+Task 1- Release: 20.200, Completion: 21.118, Response: 0.918, WCRT: 0.918, Next Release: 20.500 ==> Task 1 violates Deadline!
+Task 1- Release: 20.500, Completion: 21.227, Response: 0.727, WCRT: 0.918, Next Release: 20.800 ==> Task 1 violates Deadline!
+Task 1- Release: 20.800, Completion: 21.325, Response: 0.525, WCRT: 0.918, Next Release: 21.100 ==> Task 1 violates Deadline!
+Overload detected!
+Task 1- Release: 21.100, Completion: 21.419, Response: 0.319, WCRT: 0.918, Next Release: 21.400 ==> Task 1 violates Deadline!
+Task 1- Release: 21.400, Completion: 21.513, Response: 0.113, WCRT: 0.918, Next Release: 21.700
+Task 2- Release: 20.100, Completion: 21.607, Response: 1.507, WCRT: 1.511, Next Release: 20.500 ==> Task 2 violates Deadline!
+Task 2- Release: 20.500, Completion: 21.701, Response: 1.201, WCRT: 1.511, Next Release: Task 1- Release: 21.700, Completion: 21.795, Response: 0.095, WCRT: 0.918, Next Release: 22.000
+20.900 ==> Task 2 violates Deadline!
+Task 2- Release: 20.900, Completion: 21.890, Response: 0.990, WCRT: 1.511, Next Release: 21.300 ==> Task 2 violates Deadline!
+Task 2- Release: 21.300, Completion: 21.985, Response: 0.685, WCRT: 1.511, Next Release: 21.700 ==> Task 2 violates Deadline!
+Task 1- Release: 22.000, Completion: 22.097, Response: 0.097, WCRT: 0.918, Next Release: 22.300
+Task 2- Release: 21.700, Completion: 22.173, Response: 0.473, WCRT: 1.511, Next Release: 22.100 ==> Task 2 violates Deadline!
+Task 2- Release: 22.100, Completion: 22.267, Response: 0.167, WCRT: 1.511, Next Release: 22.500
+Task 1- Release: 22.300, Completion: 22.404, Response: 0.104, WCRT: 0.918, Next Release: 22.600
+Task 3- Release: 20.500, Completion: 22.471, Response: 1.971, WCRT: 1.971, Next Release: 21.100 ==> Task 3 violates Deadline!
+Overload detected!
+Task 2- Release: 22.500, Completion: 22.603, Response: 0.103, WCRT: 1.511, Next Release: 22.900
+Task 1- Release: 22.600, Completion: 22.704, Response: 0.104, WCRT: 0.918, Next Release: 22.900
+Task 3- Release: 21.100, Completion: 22.755, Response: 1.655, WCRT: 1.971, Next Release: 21.700 ==> Task 3 violates Deadline!
+Task 3- Release: 21.700, Completion: 22.849, Response: 1.149, WCRT: 1.971, Next Release: 22.300 ==> Task 3 violates Deadline!
+Task 1- Release: 22.900, Completion: 23.003, Response: 0.103, WCRT: 0.918, Next Release: 23.200
+Task 2- Release: 22.900, Completion: 23.097, Response: 0.197, WCRT: 1.511, Next Release: 23.300
+Task 3- Release: 22.300, Completion: 23.135, Response: 0.835, WCRT: 1.971, Next Release: 22.900 ==> Task 3 violates Deadline!
+Task 1- Release: 23.200, Completion: 23.293, Response: 0.093, WCRT: 0.918, Next Release: 23.500
+Task 2- Release: 23.300, Completion: 23.405, Response: 0.105, WCRT: 1.511, Next Release: 23.700
+Task 3- Release: 22.900, Completion: 23.420, Response: 0.520, WCRT: 1.971, Next Release: 23.500
+Task 1- Release: 23.500, Completion: 23.594, Response: 0.094, WCRT: 0.918, Next Release: 23.800
+Task 3- Release: 23.500, Completion: 23.687, Response: 0.187, WCRT: 1.971, Next Release: 24.100
+Overload detected!
+Task 2- Release: 23.700, Completion: 23.801, Response: 0.101, WCRT: 1.511, Next Release: 24.100
+Task 1- Release: 23.800, Completion: 23.895, Response: 0.095, WCRT: 0.918, Next Release: 24.100
+Task 4- Release: 20.500, Completion: 23.986, Response: 3.486, WCRT: 3.507, Next Release: 21.700 ==> Task 4 violates Deadline!
+Task 4- Release: 21.700, Completion: 24.186, Response: 2.486, WCRT: 3.507, Next Release: 22.900 ==> Task 4 violates Deadline!
+Task 4- Release: 22.900, Completion: 24.366, Response: 1.466, WCRT: 3.507, Next Release: 24.100 ==> Task 4 violates Deadline!
+Task 4- Release: 24.100, Completion: 24.552, Response: 0.451, WCRT: 3.507, Next Release: 25.300
+Reset
+Task 1- Release: 24.100, Completion: 25.107, Response: 1.007, WCRT: 1.007, Next Release: 24.400 ==> Task 1 violates Deadline!
+Task 1- Release: 24.400, Completion: 25.201, Response: 0.801, WCRT: 1.007, Next Release: 24.700 ==> Task 1 violates Deadline!
+Task 1- Release: 24.700, Completion: 25.299, Response: 0.599, WCRT: 1.007, Next Release: 25.000 ==> Task 1 violates Deadline!
+Task 1- Release: 25.000, Completion: 25.393, Response: 0.393, WCRT: 1.007, Next Release: 25.300 ==> Task 1 violates Deadline!
+Task 1- Release: 25.300, Completion: 25.488, Response: 0.188, WCRT: 1.007, Next Release: 25.600
+Task 2- Release: 24.100, Completion: 25.583, Response: 1.483, WCRT: 1.511, Next Release: 24.500 ==> Task 2 violates Deadline!
+Task 1- Release: 25.600, Completion: 25.699, Response: 0.099, WCRT: 1.007, Next Release: 25.900
+Overload detected!
+Task 2- Release: 24.500, Completion: 25.790, Response: 1.290, WCRT: 1.511, Next Release: 24.900 ==> Task 2 violates Deadline!
+Task 2- Release: 24.900, Completion: 25.885, Response: 0.985, WCRT: 1.511, Next Release: 25.300 ==> Task 2 violates Deadline!
+Task 1- Release: 25.900, Completion: 26.010, Response: 0.110, WCRT: 1.007, Next Release: 26.200
+Task 2- Release: 25.300, Completion: 26.082, Response: 0.782, WCRT: 1.511, Next Release: 25.700 ==> Task 2 violates Deadline!
+Task 2- Release: 25.700, Completion: 26.176, Response: 0.476, WCRT: 1.511, Next Release: 26.100 ==> Task 2 violates Deadline!
+Task 1- Release: 26.200, Completion: 26.300, Response: 0.100, WCRT: 1.007, Next Release: 26.500
+Task 2- Release: 26.100, Completion: 26.365, Response: 0.265, WCRT: 1.511, Next Release: 26.500
+Task 3- Release: 24.100, Completion: 26.459, Response: 2.359, WCRT: 2.359, Next Release: 24.700 ==> Task 3 violates Deadline!
+Task 1- Release: 26.500, Completion: 26.598, Response: 0.098, WCRT: 1.007, Next Release: 26.800
+Task 2- Release: 26.500, Completion: 26.691, Response: 0.191, WCRT: 1.511, Next Release: 26.900
+Task 3- Release: 24.700, Completion: 26.745, Response: 2.045, WCRT: 2.359, Next Release: 25.300 ==> Task 3 violates Deadline!
+Task 1- Release: 26.800, Completion: 26.902, Response: 0.102, WCRT: 1.007, Next Release: 27.100
+Overload detected!
+Task 2- Release: 26.900, Completion: 26.996, Response: 0.096, WCRT: 1.511, Next Release: 27.300
+Task 3- Release: 25.300, Completion: 27.034, Response: 1.734, WCRT: 2.359, Next Release: 25.900 ==> Task 3 violates Deadline!
+Task 1- Release: 27.100, Completion: 27.196, Response: 0.096, WCRT: 1.007, Next Release: 27.400
+Task 3- Release: 25.900, Completion: 27.223, Response: 1.323, WCRT: 2.359, Next Release: 26.500 ==> Task 3 violates Deadline!
+Task 2- Release: 27.300Task 1- Release: 27.400, Completion: 27.517, Response: 0.117, WCRT: 1.007, Next Release: 27.700
+, Completion: 27.407, Response: 0.107, WCRT: 1.511, Next Release: 27.700
+Task 3- Release: 26.500, Completion: 27.539, Response: 1.039, WCRT: 2.359, Next Release: 27.100 ==> Task 3 violates Deadline!
+Task 3- Release: 27.100, Completion: 27.656, Response: 0.556, WCRT: 2.359, Next Release: 27.700
+Task 1- Release: 27.700, Completion: 27.804, Response: 0.104, WCRT: 1.007, Next Release: 28.000
+Task 2- Release: 27.700, Completion: 27.898, Response: 0.198, WCRT: 1.511, Next Release: 28.100
+Task 1- Release: 28.000, Completion: 28.108, Response: 0.108, WCRT: 1.007, Next Release: 28.300
+Overload detected!
+Task 2- Release: 28.100, Completion: 28.202, Response: 0.102, WCRT: 1.511, Next Release: 28.500
+Task 3- Release: 27.700, Completion: 28.203, Response: 0.503, WCRT: 2.359, Next Release: 28.300
+Task 1- Release: 28.300, Completion: 28.404, Response: 0.104, WCRT: 1.007, Next Release: 28.600
+Task 3- Release: 28.300, Completion: 28.499, Response: 0.199, WCRT: 2.359, Next Release: 28.900
+Task 2- Release: 28.500, Completion: 28.596, Response: 0.096, WCRT: 1.511, Next Release: 28.900
+Task 1- Release: 28.600, Completion: 28.703, Response: 0.103, WCRT: 1.007, Next Release: 28.900
+Task 4- Release: 25.300, Completion: 28.722, Response: 3.422, WCRT: 3.507, Next Release: 26.500 ==> Task 4 violates Deadline!
+Task 1- Release: 28.900, Completion: 29.005, Response: 0.105, WCRT: 1.007, Next Release: 29.200
+Task 2- Release: 28.900, Completion: 29.100, Response: 0.200, WCRT: 1.511, Next Release: 29.300
+Task 3- Release: 28.900, Completion: 29.195, Response: 0.295, WCRT: 2.359, Next Release: 29.500
+Task 4- Release: 26.500, Completion: 29.197, Response: 2.697, WCRT: 3.507, Next Release: 27.700 ==> Task 4 violates Deadline!
+Task 1- Release: 29.200, Completion: 29.303, Response: 0.103, WCRT: 1.007, Next Release: 29.500
+Overload detected!
+Task 2- Release: 29.300, Completion: 29.412, Response: 0.112, WCRT: 1.511, Next Release: 29.700
+Task 1- Release: 29.500, Completion: 29.601, Response: 0.101, WCRT: 1.007, Next Release: 29.800
+Task 3- Release: 29.500, Completion: 29.693, Response: 0.193, WCRT: 2.359, Next Release: 30.100
+Task 2- Release: 29.700, Completion: 29.801Task 1- Release: 29.800, Completion: 29.895, Response: 0.095, WCRT: 1.007, Next Release: 30.100
+, Response: 0.101, WCRT: 1.511, Next Release: 30.100
+Task 4- Release: 27.700, Completion: 29.972, Response: 2.272, WCRT: 3.507, Next Release: 28.900 ==> Task 4 violates Deadline!
+Task Task 1- Release: 30.100, Completion: 30.252, Response: 0.152, WCRT: 1.007, Next Release: 30.400
+Task 1- Release: 30.400, Completion: 30.541, Response: 0.141, WCRT: 1.007, Next Release: 30.700
+Task 2- Release: 30.100, Completion: 30.345, Response: 0.245, WCRT: 1.511, Next Release: 30.500
+Overload detected!
+Task 2- Release: 30.500, Completion: 30.647, Response: 0.147, WCRT: 1.511, Next Release: 30.900
+Task 3- Release: 30.100, Completion: 30.439, Response: 0.339, WCRT: 2.359, Next Release: 30.700
+4- Release: 28.900, Completion: 30.158, Response: 1.258, WCRT: 3.507, Next Release: 30.100 ==> Task 4 violates Deadline!
+Task 1- Release: 30.700, Completion: 30.804, Response: 0.104, WCRT: 1.007, Next Release: 31.000
+Task 3- Release: 30.700, Completion: 30.898, Response: 0.198, WCRT: 2.359, Next Release: 31.300
+Task 2- Release: 30.900, Completion: 30.998, Response: 0.098, WCRT: 1.511, Next Release: 31.300
+Task 1- Release: 31.000, Completion: 31.095, Response: 0.095, WCRT: 1.007, Next Release: 31.300
+Task 4- Release: 30.100, Completion: 31.213, Response: 1.113, WCRT: 3.507, Next Release: 31.300
+Reset
+Task 1- Release: 31.300, Completion: 31.417, Response: 0.117, WCRT: 1.007, Next Release: 31.600
+Task 2- Release: 31.300, Completion: 31.510, Response: 0.210, WCRT: 1.511, Next Release: 31.700
+Task 3- Release: 31.300, Completion: 31.604, Response: 0.304, WCRT: Task 1- Release: 31.600, Completion: 31.700, Response: 0.100, WCRT: 1.007, Next Release: 31.900
+Task 2- Release: 31.700, Completion: 31.795, Response: 0.095, WCRT: 1.511, Next Release: 32.100
+2.359, Next Release: 31.900
+Task 1- Release: 31.900, Completion: 32.003, Response: 0.103, WCRT: 1.007, Next Release: 32.200
+Task 3- Release: 31.900, Completion: 32.099, Response: 0.199, WCRT: 2.359, Next Release: 32.500
+Task 2- Release: 32.100, Completion: 32.199, Response: 0.099, WCRT: 1.511, Next Release: 32.500
+Task 1- Release: 32.200, Completion: 32.303, Response: 0.103, WCRT: 1.007, Next Release: 32.500
+Task 4- Release: 31.300, Completion: 32.360, Response: 1.060, WCRT: 3.507, Next Release: 32.500
+Reset
+Task 1- Release: 32.500, Completion: 32.603, Response: 0.103, WCRT: 1.007, Next Release: 32.800
+Task 2- Release: 32.500, Completion: 32.698, Response: 0.198, WCRT: 1.511, Next Release: 32.900
+Task 3- Release: 32.500, Completion: 32.792, Response: 0.292, WCRT: 2.359, Next Release: 33.100
+Task 1- Release: 32.800, Completion: 32.915, Response: 0.115, WCRT: 1.007, Next Release: 33.100
+Task 2- Release: 32.900, Completion: 33.010, Response: 0.110, WCRT: 1.511, Next Release: 33.300
+Task 1- Release: 33.100, Completion: 33.203, Response: 0.103, WCRT: 1.007, Next Release: 33.400
+Task 3- Release: 33.100, Completion: 33.297, Response: 0.197, WCRT: 2.359, Next Release: 33.700
+Task 2- Release: 33.300, Completion: 33.398, Response: 0.098, WCRT: 1.511, Next Release: 33.700
+Task 1- Release: 33.400, Completion: 33.503, Response: 0.103, WCRT: 1.007, Next Release: 33.700
+Task 4- Release: 32.500, Completion: 33.555, Response: 1.055, WCRT: 3.507, Next Release: 33.700
+Reset
+Task 1- Release: 33.700, Completion: 33.800, Response: 0.100, WCRT: 1.007, Next Release: 34.000
+Task 2- Release: 33.700, Completion: 33.894, Response: 0.194, WCRT: 1.511, Next Release: 34.100
+Task 3- Release: 33.700, Completion: 33.989, Response: 0.289, WCRT: 2.359, Next Release: 34.300
+Task 1- Release: 34.000, Completion: 34.114, Response: 0.114, WCRT: 1.007, Next Release: 34.300
+Task 2- Release: 34.100, Completion: 34.213, Response: 0.113, WCRT: 1.511, Next Release: 34.500
+Task 1- Release: 34.300, Completion: 34.397, Response: 0.097, WCRT: 1.007, Next Release: 34.600
+Task 3- Release: 34.300, Completion: 34.491, Response: 0.191, WCRT: 2.359, Next Release: 34.900
+Task 1- Release: 34.600, Completion: 34.700, Response: 0.100, WCRT: 1.007, Next Release: 34.900
+Task 2- Release: 34.500, Completion: 34.701, Response: 0.201, WCRT: 1.511, Next Release: 34.900
+Overload detected!
+Task 4- Release: 33.700, Completion: 34.774, Response: 1.074, WCRT: 3.507, Next Release: 34.900
+Reset
+Task 1- Release: 34.900, Completion: 35.005, Response: 0.105, WCRT: 1.007, Next Release: 35.200
+Task 2- Release: 34.900, Completion: 35.099, Response: 0.199, WCRT: 1.511, Next Release: 35.300
+Task 3- Release: 34.900, Completion: 35.194, Response: 0.294, WCRT: 2.359, Next Release: 35.500
+Task 1- Release: 35.200, Completion: 35.301, Response: 0.101, WCRT: 1.007, Next Release: 35.500
+Task 2- Release: 35.300, Completion: 35.407, Response: 0.107, WCRT: 1.511, Next Release: 35.700
+Task 1- Release: 35.500, Completion: 35.602, Response: 0.102, WCRT: 1.007, Next Release: 35.800
+Task 3- Release: 35.500, Completion: 35.697, Response: 0.197, WCRT: 2.359, Next Release: 36.100
+Task 2- Release: 35.700, Completion: 35.795, Response: 0.095, WCRT: 1.511, Next Release: 36.100
+Task 1- Release: 35.800, Completion: 35.901, Response: 0.101, WCRT: 1.007, Next Release: 36.100
+Task 4- Release: 34.900, Completion: 35.963, Response: 1.063, WCRT: 3.507, Next Release: 36.100
+Reset
+Overload detected!
+Task 1- Release: 36.100, Completion: 38.097, Response: 1.997, WCRT: 1.997, Next Release: 36.400 ==> Task 1 violates Deadline!
+Task 1- Release: 36.400, Completion: 38.191, Response: 1.791, WCRT: 1.997, Next Release: 36.700 ==> Task 1 violates Deadline!
+Task 1- Release: 36.700, Completion: 38.285, Response: 1.585, WCRT: 1.997, Next Release: 37.000 ==> Task 1 violates Deadline!
+Task 1- Release: 37.000, Completion: 38.379, Response: 1.379, WCRT: 1.997, Next Release: 37.300 ==> Task 1 violates Deadline!
+Task 1- Release: 37.300, Completion: 38.473, Response: 1.173, WCRT: 1.997, Next Release: 37.600 ==> Task 1 violates Deadline!
+Task 1- Release: 37.600, Completion: 38.566, Response: 0.966, WCRT: 1.997, Next Release: 37.900 ==> Task 1 violates Deadline!
+Task 1- Release: 37.900, Completion: 38.661, Response: 0.761, WCRT: 1.997, Next Release: 38.200 ==> Task 1 violates Deadline!
+Task 1- Release: 38.200, Completion: 38.760, Response: 0.560, WCRT: 1.997, Next Release: 38.500 ==> Task 1 violates Deadline!
+Task 1- Release: 38.500, Completion: 38.853, Response: 0.353, WCRT: 1.997, Next Release: 38.800 ==> Task 1 violates Deadline!
+Task 1- Release: 38.800, Completion: 38.945, Response: 0.145, WCRT: 1.997, Next Release: 39.100
+Task 2- Release: 36.100, Completion: 39.040, Response: 2.940, WCRT: 2.940, Next Release: 36.500 ==> Task 2 violates Deadline!
+Overload detected!
+Task 1- Release: 39.100, Completion: 39.205, Response: 0.105, WCRT: 1.997, Next Release: 39.400
+Task 2- Release: 36.500, Completion: 39.238, Response: 2.738, WCRT: 2.940, Next Release: 36.900 ==> Task 2 violates Deadline!
+Task 2- Release: 36.900, Completion: 39.337, Response: 2.437, WCRT: 2.940, Next Release: 37.300 ==> Task 2 violates Deadline!
+Task 1- Release: 39.400, Completion: 39.494, Response: 0.094, WCRT: 1.997, Next Release: 39.700
+Task 2- Release: 37.300, Completion: 39.525, Response: 2.225, WCRT: 2.940, Next Release: 37.700 ==> Task 2 violates Deadline!
+Task 2- Release: 37.700, Completion: 39.620, Response: 1.920, WCRT: 2.940, Next Release: 38.100 ==> Task 2 violates Deadline!
+Task 1- Release: 39.700, Completion: 39.803, Response: 0.103, WCRT: 1.997, Next Release: 40.000
+Task 2- Release: 38.100, Completion: 39.808, Response: 1.708, WCRT: 2.940, Next Release: 38.500 ==> Task 2 violates Deadline!
+Task 2- Release: 38.500, Completion: 39.901, Response: 1.401, WCRT: 2.940, Next Release: 38.900 ==> Task 2 violates Deadline!
+Task 2- Release: 38.900, Completion: 39.990, Response: 1.090, WCRT: 2.940, Next Release: 39.300 ==> Task 2 violates Deadline!
+Task 1- Release: 40.000, Completion: 40.104, Response: 0.104, WCRT: 1.997, Next Release: 40.300
+Task 2- Release: 39.300, Completion: 40.182, Response: 0.882, WCRT: 2.940, Next Release: 39.700 ==> Task 2 violates Deadline!
+Task 2- Release: 39.700, Completion: 40.277, Response: 0.577, WCRT: 2.940, Next Release: 40.100 ==> Task 2 violates Deadline!
+Task 1- Release: 40.300, Completion: 40.401, Response: 0.101, WCRT: 1.997, Next Release: 40.600
+Overload detected!
+Task 2- Release: 40.100, Completion: 40.466, Response: 0.366, WCRT: 2.940, Next Release: 40.500
+Task 2- Release: 40.500, Completion: 40.600, Response: 0.100, WCRT: Task 1- Release: 40.600, Completion: 40.694, Response: 0.094, WCRT: 1.997, Next Release: 40.900
+2.940, Next Release: 40.900
+Task 3- Release: 36.100, Completion: 40.761, Response: 4.661, WCRT: 4.661, Next Release: 36.700 ==> Task 3 violates Deadline!
+Task 3- Release: 36.700, Completion: 40.854, Response: 4.154, WCRT: 4.661, Next Release: 37.300 ==> Task 3 violates Deadline!
+Task 1- Release: 40.900, Completion: 41.021, Response: 0.121, WCRT: 1.997, Next Release: 41.200
+Task 2- Release: 40.900, Completion: 41.118, Response: 0.218, WCRT: 2.940, Next Release: 41.300
+Task 3- Release: 37.300, Completion: 41.161, Response: 3.861, WCRT: 4.661, Next Release: 37.900 ==> Task 3 violates Deadline!
+Task 1- Release: 41.200, Completion: 41.296, Response: 0.096, WCRT: 1.997, Next Release: 41.500
+Task 2- Release: 41.300, Completion: 41.399, Response: 0.099, WCRT: 2.940, Next Release: 41.700
+Task 3- Release: 37.900, Completion: 41.449, Response: 3.549, WCRT: 4.661, Next Release: 38.500 ==> Task 3 violates Deadline!
+Task 1- Release: 41.500, Completion: 41.604, Response: 0.104, WCRT: 1.997, Next Release: 41.800
+Overload detected!
+Task 3- Release: 38.500, Completion: 41.638, Response: 3.138, WCRT: 4.661, Next Release: 39.100 ==> Task 3 violates Deadline!
+Task 2- Release: 41.700, Completion: 41.800, Response: 0.100, WCRT: 2.940, Next Release: 42.100
+Task 1- Release: 41.800, Completion: 41.903, Response: 0.103, WCRT: 1.997, Next Release: 42.100
+Task 3- Release: 39.100, Completion: 41.921, Response: 2.821, WCRT: 4.661, Next Release: 39.700 ==> Task 3 violates Deadline!
+Task 3- Release: 39.700, Completion: 42.025, Response: 2.324, WCRT: 4.661, Next Release: 40.300 ==> Task 3 violates Deadline!
+Task 1- Release: 42.100, Completion: 42.200, Response: 0.100, WCRT: 1.997, Next Release: 42.400
+Task 2- Release: 42.100, Completion: 42.294, Response: 0.194, WCRT: 2.940, Next Release: 42.500
+Task 3- Release: 40.300, Completion: 42.307, Response: 2.007, WCRT: 4.661, Next Release: 40.900 ==> Task 3 violates Deadline!
+Task 3- Release: 40.900, Completion: 42.401, Response: 1.501, WCRT: 4.661, Next Release: 41.500 ==> Task 3 violates Deadline!
+Task 1- Release: 42.400, Completion: 42.496, Response: 0.096, WCRT: 1.997, Next Release: 42.700
+Task 2- Release: 42.500, Completion: 42.602, Response: 0.102, WCRT: 2.940, Next Release: 42.900
+Task 3- Release: 41.500, Completion: 42.684, Response: 1.184, WCRT: 4.661, Next Release: 42.100 ==> Task 3 violates Deadline!
+Task 1- Release: 42.700, Completion: 42.797, Response: 0.097, WCRT: 1.997, Next Release: 43.000
+Overload detected!
+Task 3- Release: 42.100, Completion: 42.873, Response: 0.773, WCRT: 4.661, Next Release: 42.700 ==> Task 3 violates Deadline!
+Task 1- Release: 43.000, Completion: 43.095, Response: 0.095, WCRT: 1.997, Next Release: 43.300
+Task 2- Release: 42.900, Completion: 43.099, Response: 0.199, WCRT: 2.940, Next Release: 43.300
+Task 3- Release: 42.700, Completion: 43.158, Response: 0.458, WCRT: 4.661, Next Release: 43.300
+Task 1- Release: 43.300, Completion: 43.403, Response: 0.103, WCRT: 1.997, Next Release: 43.600
+Task 2- Release: 43.300, Completion: 43.498, Response: 0.198, WCRT: 2.940, Next Release: 43.700
+Task 3- Release: 43.300, Completion: 43.592, Response: 0.292, WCRT: 4.661, Next Release: 43.900
+Task 1- Release: 43.600, Completion: 43.708, Response: 0.107, WCRT: 1.997, Next Release: 43.900
+Task 2- Release: 43.700, Completion: 43.802, Response: 0.102, WCRT: 2.940, Next Release: 44.100
+Task 4- Release: 36.100, Completion: 43.821, Response: 7.721, WCRT: 7.721, Next Release: 37.300 ==> Task 4 violates Deadline!
+Task 1- Release: 43.900, Completion: 44.003, Response: 0.103, WCRT: 1.997, Next Release: 44.200
+Overload detected!
+Task 3- Release: 43.900, Completion: 44.097, Response: 0.197, WCRT: 4.661, Next Release: 44.500
+Task 2- Release: 44.100, Completion: 44.211, Response: 0.111, WCRT: 2.940, Next Release: 44.500
+Task 1- Release: 44.200, Completion: 44.310, Response: 0.110, WCRT: 1.997, Next Release: 44.500
+Task 4- Release: 37.300, Completion: 44.389, Response: 7.089, WCRT: 7.721, Next Release: 38.500 ==> Task 4 violates Deadline!
+Task 1- Release: 44.500, Completion: 44.602, Response: 0.102, WCRT: 1.997, Next Release: 44.800
+Task 2- Release: 44.500, Completion: 44.697, Response: 0.197, WCRT: 2.940, Next Release: 44.900
+Task 3- Release: 44.500, Completion: 44.802, Response: Task 1- Release: 44.800, Completion: 44.896, Response: 0.096, WCRT: 1.997, Next Release: 45.100
+0.302, WCRT: 4.661, Next Release: 45.100
+Task 2- Release: 44.900, Completion: 45.005, Response: 0.105, WCRT: 2.940, Next Release: 45.300
+Task 4- Release: 38.500, Completion: 45.067, Response: 6.567, WCRT: 7.721, Next Release: 39.700 ==> Task 4 violates Deadline!
+Task 1- Release: 45.100, Completion: 45.198, Response: 0.098, WCRT: 1.997, Next Release: 45.400
+Overload detected!
+Task 3- Release: 45.100, Completion: 45.293, Response: 0.193, WCRT: 4.661, Next Release: 45.700
+Task 1- Release: 45.400, Completion: 45.519, Response: 0.119, WCRT: 1.997, Next Release: 45.700
+Task 2- Release: 45.300, Completion: 45.535, Response: 0.235, WCRT: 2.940, Next Release: 45.700
+Task 4- Release: 39.700, Completion: 45.669, Response: 5.969, WCRT: 7.721, Next Release: 40.900 ==> Task 4 violates Deadline!
+Task 1- Release: 45.700, Completion: 45.796, Response: 0.096, WCRT: 1.997, Next Release: 46.000
+Task 2- Release: 45.700, Completion: 45.906, Response: 0.206, WCRT: 2.940, Next Release: 46.100
+Task 1- Release: 46.000, Completion: 46.094, Response: 0.094, WCRT: 1.997, Next Release: 46.300
+Task 3- Release: 45.700, Completion: 46.104, Response: 0.404, WCRT: 4.661Task 2- Release: 46.100, Completion: 46.198, Response: 0.098, WCRT: 2.940, Next Release: 46.500
+, Next Release: 46.300
+Task 4- Release: 40.900, Completion: 46.352, Response: 5.452, WCRT: 7.721, Next Release: 42.100 ==> Task 4 violates Deadline!
+Task 4- Release: 42.100, Completion: 46.537, Response: 4.437, WCRT: 7.721, Next Release: 43.300 ==> Task 4 violates Deadline!
+Task 4- Release: 43.300, Completion: 46.718, Response: 3.418, WCRT: 7.721, Next Release: 44.500 ==> Task 4 violates Deadline!
+Task 4- Release: 44.500, Completion: 46.901, Response: 2.401, WCRT: 7.721, Next Release: 45.700 ==> Task 4 violates Deadline!
+Overload detected!
+Task 1- Release: 46.300, Completion: 47.094, Response: 0.794, WCRT: 1.997, Next Release: 46.600 ==> Task 1 violates Deadline!
+Task 1- Release: 46.600, Completion: 47.188, Response: 0.588, WCRT: 1.997, Next Release: 46.900 ==> Task 1 violates Deadline!
+Task 1- Release: 46.900, Completion: 47.283, Response: 0.383, WCRT: 1.997, Next Release: 47.200 ==> Task 1 violates Deadline!
+Task 1- Release: 47.200, Completion: 47.377, Response: 0.177, WCRT: 1.997, Next Release: 47.500
+Task 2- Release: 46.500, Completion: 47.473, Response: 0.973, WCRT: 2.940, Next Release: 46.900 ==> Task 2 violates Deadline!
+Task 1- Release: 47.500, Completion: 47.607, Response: 0.107, WCRT: 1.997, Next Release: 47.800
+Task 2- Release: 46.900, Completion: 47.677, Response: 0.777, WCRT: 2.940, Next Release: 47.300 ==> Task 2 violates Deadline!
+Task 2- Release: 47.300, Completion: 47.775, Response: 0.475, WCRT: 2.940, Next Release: 47.700 ==> Task 2 violates Deadline!
+Task 1- Release: 47.800, Completion: 47.894, Response: 0.094, WCRT: 1.997, Next Release: 48.100
+Task 2- Release: 47.700, Completion: 47.982, Response: 0.282, WCRT: 2.940, Next Release: 48.100
+Task 3- Release: 46.300, Completion: 48.094, Response: 1.794, WCRT: 4.661, Next Release: 46.900 ==> Task 3 violates Deadline!
+Overload detected!
+Task 1- Release: 48.100, Completion: 48.203, Response: 0.103, WCRT: 1.997, Next Release: 48.400
+Task 2- Release: 48.100, Completion: 48.297, Response: 0.197, WCRT: 2.940, Next Release: 48.500
+Task 3- Release: 46.900, Completion: 48.377, Response: 1.477, WCRT: 4.661, Next Release: 47.500 ==> Task 3 violates Deadline!
+Task 1- Release: 48.400, Completion: 48.521, Response: 0.121, WCRT: 1.997, Next Release: 48.700
+Task 2- Release: 48.500, Completion: 48.614, Response: 0.114, WCRT: 2.940, Next Release: 48.900
+Task 3- Release: 47.500, Completion: 48.657, Response: 1.157, WCRT: 4.661, Next Release: 48.100 ==> Task 3 violates Deadline!
+Task 1- Release: 48.700, Completion: 48.800, Response: 0.100, WCRT: 1.997, Next Release: 49.000
+Task 3- Release: 48.100, Completion: 48.845, Response: 0.745, WCRT: 4.661, Next Release: 48.700 ==> Task 3 violates Deadline!
+Task 2- Release: 48.900, Completion: 48.998, Response: 0.098, WCRT: 2.940, Next Release: 49.300
+Task 1- Release: 49.000, Completion: 49.103, Response: 0.103, WCRT: 1.997, Next Release: 49.300
+Task 3- Release: 48.700, Completion: 49.145, Response: 0.445, WCRT: 4.661, Next Release: 49.300
+Task 4- Release: 45.700, Completion: 49.261, Response: 3.561, WCRT: 7.721, Next Release: 46.900 ==> Task 4 violates Deadline!
+Overload detected!
+Task 1- Release: 49.300, Completion: 49.424, Response: 0.124, WCRT: 1.997, Next Release: 49.600
+Task 2- Release: 49.300, Completion: 49.530, Response: 0.230, WCRT: 2.940, Next Release: 49.700
+Task 1- Release: 49.600, Completion: 49.701, Response: 0.101, WCRT: 1.997, Next Release: 49.900
+Task 2- Release: 49.700, Completion: 49.796, Response: 0.096, WCRT: 2.940, Next Release: 50.100
+Task 3- Release: 49.300, Completion: 49.819, Response: 0.519, WCRT: 4.661, Next Release: 49.900
+Task 1- Release: 49.900, Completion: 50.024, Response: 0.124, WCRT: 1.997, Next Release: 50.200
+Task 2- Release: 50.100, Completion: 50.202, Response: 0.102, WCRT: 2.940, Next Release: 50.500
+Task 1- Release: 50.200, Completion: 50.299, Response: 0.099, WCRT: 1.997, Next Release: 50.500
+Task 3- Release: 49.900, Completion: 50.309, Response: 0.409, WCRT: 4.661, Next Release: 50.500
+Task 4- Release: 46.900, Completion: 50.379, Response: 3.479, WCRT: 7.721, Next Release: 48.100 ==> Task 4 violates Deadline!
+Task 1- Release: 50.500, Completion: 50.601, Response: 0.101, WCRT: 1.997, Next Release: 50.800
+Overload detected!
+Task 2- Release: 50.500, Completion: 50.696, Response: 0.196, WCRT: 2.940, Next Release: 50.900
+Task 3- Release: 50.500, Completion: 50.791, Response: 0.291, WCRT: 4.661, Next Release: 51.100
+Task 1- Release: 50.800, Completion: 50.895, Response: 0.095, WCRT: 1.997, Next Release: 51.100
+Task 2- Release: 50.900, Completion: 50.999, Response: 0.099, WCRT: 2.940, Next Release: 51.300
+Task 4- Release: 48.100, Completion: 51.042, Response: 2.942, WCRT: 7.721, Next Release: 49.300 ==> Task 4 violates Deadline!
+Task 1- Release: 51.100, Completion: 51.203, Response: 0.103, WCRT: 1.997, Next Release: 51.400
+Task 3- Release: 51.100, Completion: 51.298, Response: 0.198, WCRT: 4.661, Next Release: 51.700
+Task 1- Release: 51.400, Completion: 51.513, Response: 0.113, WCRT: 1.997, Next Release: 51.700
+Task 2- Release: 51.300, Completion: 51.530, Response: 0.230, WCRT: 2.940, Next Release: 51.700
+Task 4- Release: 49.300, Completion: 51.636, Response: 2.336, WCRT: 7.721, Next Release: 50.500 ==> Task 4 violates Deadline!
+Task 1- Release: 51.700, Completion: 51.822, Response: 0.122, WCRT: 1.997, Next Release: 52.000
+Overload detected!
+Task 2- Release: 51.700, Completion: 51.915, Response: 0.215, WCRT: 2.940, Next Release: 52.100
+Task 1- Release: 52.000, Completion: 52.100, Response: 0.100, WCRT: 1.997, Next Release: 52.300
+Task 2- Release: 52.100, Completion: 52.195, Response: 0.095, WCRT: 2.940, Next Release: 52.500
+Task 3- Release: 51.700, Completion: 52.200, Response: 0.500, WCRT: 4.661, Next Release: 52.300
+Task 1- Release: 52.300, Completion: 52.398, Response: 0.098, WCRT: 1.997, Next Release: 52.600
+Task 3- Release: 52.300, Completion: 52.493, Response: 0.193, WCRT: 4.661, Next Release: 52.900
+Task 4- Release: 50.500, Completion: 52.495, Response: 1.995, WCRT: 7.721, Next Release: 51.700 ==> Task 4 violates Deadline!
+Task 1- Release: 52.600, Completion: 52.696, Response: 0.096, WCRT: 1.997, Next Release: 52.900
+Task 2- Release: 52.500, Completion: 52.699, Response: 0.199, WCRT: 2.940, Next Release: 52.900
+Task 4- Release: 51.700, Completion: 52.886, Response: 1.186, WCRT: 7.721, Next Release: 52.900
+Reset
+Task 1- Release: 52.900, Completion: 53.002, Response: 0.102, WCRT: 1.997, Next Release: 53.200
+Task 2- Release: 52.900, Completion: 53.096, Response: 0.196, WCRT: 2.940, Next Release: 53.300
+Task 3- Release: 52.900, Completion: 53.189, Response: 0.289, WCRT: 4.661, Next Release: 53.500
+Task 1- Release: 53.200, Completion: 53.307, Response: 0.107, WCRT: 1.997, Next Release: 53.500
+Task 2- Release: 53.300, Completion: 53.403, Response: 0.103, WCRT: 2.940, Next Release: 53.700
+Task 1- Release: 53.500, Completion: 53.604, Response: 0.104, WCRT: 1.997, Next Release: 53.800
+Task 3- Release: 53.500, Completion: 53.704, Response: 0.204, WCRT: 4.661, Next Release: 54.100
+Task 2- Release: 53.700, Completion: 53.799, Response: 0.099, WCRT: 2.940, Next Release: 54.100
+Task 1- Release: 53.800, Completion: 53.899, Response: 0.099, WCRT: 1.997, Next Release: 54.100
+Task 4- Release: 52.900, Completion: 53.967, Response: 1.067, WCRT: 7.721, Next Release: 54.100
+Reset
+Task 1- Release: 54.100, Completion: 55.115, Response: 1.015, WCRT: 1.997, Next Release: 54.400 ==> Task 1 violates Deadline!
+Overload detected!
+Task 1- Release: 54.400, Completion: 55.211, Response: 0.811, WCRT: 1.997, Next Release: 54.700 ==> Task 1 violates Deadline!
+Task 1- Release: 54.700, Completion: 55.305, Response: 0.605, WCRT: 1.997, Next Release: 55.000 ==> Task 1 violates Deadline!
+Task 1- Release: 55.000, Completion: 55.401, Response: 0.401, WCRT: 1.997, Next Release: 55.300 ==> Task 1 violates Deadline!
+Task 1- Release: 55.300, Completion: 55.496, Response: 0.196, WCRT: 1.997, Next Release: 55.600
+Task 2- Release: 54.100, Completion: 55.590, Response: 1.490, WCRT: 2.940, Next Release: 54.500 ==> Task 2 violates Deadline!
+Task 1- Release: 55.600, Completion: 55.710, Response: 0.110, WCRT: 1.997, Next Release: 55.900
+Task 2- Release: 54.500, Completion: 55.794, Response: 1.294, WCRT: 2.940, Next Release: 54.900 ==> Task 2 violates Deadline!
+Task 2- Release: 54.900, Completion: 55.887, Response: 0.987, WCRT: 2.940, Next Release: 55.300 ==> Task 2 violates Deadline!
+Task 1- Release: 55.900, Completion: 56.003, Response: 0.103, WCRT: 1.997, Next Release: 56.200
+Task 2- Release: 55.300, Completion: 56.078, Response: 0.778, WCRT: 2.940, Next Release: 55.700 ==> Task 2 violates Deadline!
+Task 2- Release: 55.700, Completion: 56.172, Response: 0.472, WCRT: 2.940, Next Release: 56.100 ==> Task 2 violates Deadline!
+Task 1- Release: 56.200, Completion: 56.300, Response: 0.100, WCRT: 1.997, Next Release: 56.500
+Task 2- Release: 56.100, Completion: 56.361, Response: 0.261, WCRT: 2.940, Next Release: 56.500
+Overload detected!
+Task 3- Release: 54.100, Completion: 56.456, Response: 2.356, WCRT: 4.661, Next Release: 54.700 ==> Task 3 violates Deadline!
+Task 1- Release: 56.500, Completion: 56.616, Response: 0.116, WCRT: 1.997, Next Release: 56.800
+Task 2- Release: 56.500, Completion: 56.711, Response: 0.211, WCRT: 2.940, Next Release: 56.900
+Task 3- Release: 54.700, Completion: 56.763, Response: 2.063, WCRT: 4.661, Next Release: 55.300 ==> Task 3 violates Deadline!
+Task 1- Release: 56.800, Completion: 56.901, Response: 0.101, WCRT: 1.997, Next Release: 57.100
+Task 2- Release: 56.900, Completion: 57.009, Response: 0.109, WCRT: 2.940, Next Release: 57.300
+Task 3- Release: 55.300, Completion: 57.065, Response: 1.765, WCRT: 4.661, Next Release: 55.900 ==> Task 3 violates Deadline!
+Task 1- Release: 57.100, Completion: 57.194, Response: 0.094, WCRT: 1.997, Next Release: 57.400
+Task 3- Release: 55.900, Completion: 57.253, Response: 1.353, WCRT: 4.661, Next Release: 56.500 ==> Task 3 violates Deadline!
+Task 2- Release: 57.300, Completion: 57.400, Response: 0.100, WCRT: Task 1- Release: 57.400, Completion: 57.500, Response: 0.100, WCRT: 1.997, Next Release: 57.700
+2.940, Next Release: 57.700
+Task 3- Release: 56.500, Completion: 57.552, Response: 1.052, WCRT: 4.661, Next Release: 57.100 ==> Task 3 violates Deadline!
+Overload detected!
+Task 3- Release: 57.100, Completion: 57.647, Response: 0.547, WCRT: 4.661, Next Release: 57.700
+Task 1- Release: 57.700, Completion: 57.825, Response: 0.125, WCRT: 1.997, Next Release: 58.000
+Task 2- Release: 57.700, Completion: 57.919, Response: 0.219, WCRT: 2.940, Next Release: 58.100
+Task 3- Release: 57.700, Completion: 58.014, Response: 0.314, WCRT: 4.661, Next Release: 58.300
+Task 1- Release: 58.000, Completion: 58.120, Response: 0.120, WCRT: 1.997, Next Release: 58.300
+Task 2- Release: 58.100, Completion: 58.214, Response: 0.114, WCRT: 2.940, Next Release: 58.500
+Task 1- Release: 58.300, Completion: 58.401, Response: 0.101, WCRT: 1.997, Next Release: 58.600
+Task 2- Release: 58.500, Completion: 58.595, Response: 0.095, WCRT: 2.940, Next Release: 58.900
+Task 3- Release: 58.300, Completion: 58.601, Response: 0.301, WCRT: 4.661Task 1- Release: 58.600, Completion: 58.700, Response: 0.100, WCRT: 1.997, Next Release: 58.900
+, Next Release: 58.900
+Task 4- Release: 54.100, Completion: 58.726, Response: 4.626, WCRT: 7.721, Next Release: 55.300 ==> Task 4 violates Deadline!
+Task 4- Release: 55.300, Completion: 58.910, Response: 3.610, WCRT: 7.721, Next Release: 56.500 ==> Task 4 violates Deadline!
+Overload detected!
+Task 1- Release: 58.900, Completion: 59.115, Response: 0.215, WCRT: 1.997, Next Release: 59.200
+Task 1- Release: 59.200, Completion: 59.303, Response: 0.103, WCRT: 1.997, Next Release: 59.500
+Task 2- Release: 58.900, Completion: 59.306, Response: 0.406, WCRT: 2.940, Next Release: 59.300 ==> Task 2 violates Deadline!
+Task 2- Release: 59.300, Completion: 59.409, Response: 0.109, WCRT: 2.940, Next Release: 59.700
+Task 3- Release: 58.900, Completion: 59.507, Response: 0.607, WCRT: 4.661, Next Release: 59.500 ==> Task 3 violates Deadline!
+Task 1- Release: 59.500, Completion: 59.613, Response: 0.113, WCRT: 1.997, Next Release: 59.800
+Task 3- Release: 59.500, Completion: 59.696, Response: 0.196, WCRT: 4.661, Next Release: 60.100
+Task 2- Release: 59.700, Completion: 59.798, Response: 0.098, WCRT: 2.940, Next Release: 60.100
+Task 1- Release: 59.800, Completion: 59.901, Response: 0.101, WCRT: 1.997, Next Release: 60.100
+Task 4- Release: 56.500, Completion: 59.984, Response: 3.484, WCRT: 7.721, Next Release: 57.700 ==> Task 4 violates Deadline!
+Task 1- Release: 60.100, Completion: 60.199, Response: 0.099, WCRT: 1.997, Next Release: 60.400
+Overload detected!
+Task 2- Release: 60.100, Completion: 60.293, Response: 0.193, WCRT: 2.940, Next Release: 60.500
+Task 3- Release: 60.100, Completion: 60.387, Response: 0.287, WCRT: 4.661, Next Release: 60.700
+Task 1- Release: 60.400, Completion: 60.510, Response: 0.110, WCRT: 1.997, Next Release: 60.700
+Task 2- Release: 60.500, Completion: 60.605, Response: 0.105, WCRT: 2.940, Next Release: 60.900
+Task 4- Release: 57.700, Completion: 60.656, Response: 2.956, WCRT: 7.721, Next Release: 58.900 ==> Task 4 violates Deadline!
+Task 4- Release: 58.900, Completion: 60.843, Response: 1.943, WCRT: 7.721, Next Release: 60.100 ==> Task 4 violates Deadline!
+Task 1- Release: 60.700, Completion: 61.086, Response: 0.386, WCRT: 1.997, Next Release: 61.000 ==> Task 1 violates Deadline!
+Task 1- Release: 61.000, Completion: 61.181, Response: 0.181, WCRT: 1.997, Next Release: 61.300
+Task 2- Release: 60.900, Completion: 61.276, Response: 0.376, WCRT: 2.940, Next Release: 61.300
+Overload detected!
+Task 1- Release: 61.300, Completion: 61.404, Response: 0.104, WCRT: 1.997, Next Release: 61.600
+Task 2- Release: 61.300, Completion: 61.497, Response: 0.197, WCRT: 2.940, Next Release: 61.700
+Task 3- Release: 60.700, Completion: 61.558, Response: 0.858, WCRT: 4.661, Next Release: 61.300 ==> Task 3 violates Deadline!
+Task 1- Release: 61.600, Completion: 61.706, Response: 0.106, WCRT: 1.997, Next Release: 61.900
+Task 2- Release: 61.700, Completion: 61.815, Response: 0.115, WCRT: 2.940, Next Release: 62.100
+Task 3- Release: 61.300, Completion: 61.858, Response: 0.558, WCRT: 4.661, Next Release: 61.900
+Task 4- Release: 60.100, Completion: 61.897, Response: 1.797, WCRT: 7.721, Next Release: 61.300 ==> Task 4 violates Deadline!
+Task 1- Release: 61.900, Completion: 62.003, Response: 0.103, WCRT: 1.997, Next Release: 62.200
+Task 2- Release: 62.100, Completion: 62.199, Response: 0.099, WCRT: 2.940, Next Release: 62.500
+Task 1- Release: 62.200, Completion: 62.294, Response: 0.094, WCRT: 1.997, Next Release: 62.500
+Task 3- Release: 61.900, Completion: 62.300, Response: 0.400, WCRT: 4.661, Next Release: 62.500
+Task 4- Release: 61.300, Completion: 62.481, Response: 1.181, WCRT: 7.721, Next Release: 62.500
+Reset
+Task 1- Release: 62.500, Completion: 62.595, Response: 0.095, WCRT: 1.997, Next Release: 62.800
+Task 2- Release: 62.500, Completion: 62.689, Response: 0.189, WCRT: 2.940, Next Release: 62.900
+Task 3- Release: 62.500, Completion: 62.784, Response: 0.284, WCRT: 4.661, Next Release: 63.100
+Task 1- Release: 62.800, Completion: 62.898, Response: 0.098, WCRT: 1.997, Next Release: 63.100
+Task 2- Release: 62.900, Completion: 63.015, Response: 0.115, WCRT: 2.940, Next Release: 63.300
+Task 1- Release: 63.100, Completion: 63.201, Response: 0.101, WCRT: 1.997, Next Release: 63.400
+Task 3- Release: 63.100, Completion: 63.295, Response: 0.195, WCRT: 4.661, Next Release: 63.700
+Task 2- Release: 63.300, Completion: 63.397, Response: 0.097, WCRT: 2.940, Next Release: 63.700
+Task 1- Release: 63.400, Completion: 63.500, Response: 0.100, WCRT: 1.997, Next Release: 63.700
+Task 4- Release: 62.500, Completion: 63.552, Response: 1.051, WCRT: 7.721, Next Release: 63.700
+Reset
+Task 1- Release: 63.700, Completion: 63.799, Response: 0.098, WCRT: 1.997, Next Release: 64.000
+Task 2- Release: 63.700, Completion: 63.892, Response: 0.192, WCRT: 2.940, Next Release: 64.100
+Task 3- Release: 63.700, Completion: 63.985, Response: 0.285, WCRT: 4.661, Next Release: 64.300
+Task 1- Release: 64.000, Completion: 64.098, Response: 0.098, WCRT: 1.997, Next Release: 64.300
+Task 2- Release: 64.100, Completion: 64.200, Response: 0.100, WCRT: 2.940, Next Release: 64.500
+Task 1- Release: 64.300, Completion: 64.405, Response: 0.105, WCRT: 1.997, Next Release: 64.600
+Task 3Task 2- Release: 64.500, Completion: 64.594, Response: 0.094, WCRT: 2.940, Next Release: 64.900
+- Release: 64.300, Completion: 64.500, Response: 0.200, WCRT: 4.661, Next Release: 64.900
+Task 1- Release: 64.600, Completion: 64.696, Response: 0.096, WCRT: 1.997, Next Release: 64.900
+Task 4- Release: 63.700, Completion: 64.739, Response: 1.039, WCRT: 7.721, Next Release: 64.900
+Reset
+Task 1- Release: 64.900, Completion: 64.996, Response: 0.096, WCRT: 1.997, Next Release: 65.200
+Task 2- Release: 64.900, Completion: 65.090, Response: 0.190, WCRT: 2.940, Next Release: 65.300
+Task 3- Release: 64.900, Completion: 65.183, Response: 0.283, WCRT: 4.661, Next Release: 65.500
+Task 1- Release: 65.200, Completion: 65.301, Response: 0.101, WCRT: 1.997, Next Release: 65.500
+Task 2- Release: 65.300, Completion: 65.395, Response: 0.095, WCRT: 2.940, Next Release: 65.700
+Task 1- Release: 65.500, Completion: 65.603, Response: 0.103, WCRT: 1.997, Next Release: 65.800
+Task Task 2- Release: 65.700, Completion: 65.805Task 1- Release: 65.800, Completion: 65.899, Response: 0.099, WCRT: 1.997, Next Release: 66.100
+, Response: 0.105, WCRT: 2.940, Next Release: 66.100
+3- Release: 65.500, Completion: 65.711, Response: 0.210, WCRT: 4.661, Next Release: 66.100
+Overload detected!
+Task 4- Release: 64.900, Completion: 65.953, Response: 1.053, WCRT: 7.721, Next Release: 66.100
+Reset
+Task 1- Release: 66.100, Completion: 66.199, Response: 0.099, WCRT: 1.997, Next Release: 66.400
+Task 2- Release: 66.100, Completion: 66.292, Response: 0.192, WCRT: 2.940, Next Release: 66.500
+Task 3- Release: 66.100, Completion: 66.386, Response: 0.286, WCRT: 4.661, Next Release: 66.700
+Task 1- Release: 66.400, Completion: 66.497, Response: 0.097, WCRT: 1.997, Next Release: 66.700
+Task 2- Release: 66.500, Completion: 66.619, Response: 0.119, WCRT: 2.940, Next Release: 66.900
+Task 1- Release: 66.700, Completion: 66.808, Response: 0.108, WCRT: 1.997, Next Release: 67.000
+Task 3- Release: 66.700, Completion: 66.903, Response: 0.203, WCRT: Task 2- Release: 66.900, Completion: 66.998, Response: 0.098, WCRT: 2.940, Next Release: 67.300
+4.661, Next Release: 67.300
+Task 1- Release: 67.000, Completion: 67.105, Response: 0.105, WCRT: 1.997, Next Release: 67.300
+Task 4- Release: 66.100, Completion: 67.152, Response: 1.052, WCRT: 7.721, Next Release: 67.300
+Reset
+Task 1- Release: 67.300, Completion: 68.101, Response: 0.800, WCRT: 1.997, Next Release: 67.600 ==> Task 1 violates Deadline!
+Task 1- Release: 67.600, Completion: 68.197, Response: 0.597, WCRT: 1.997, Next Release: 67.900 ==> Task 1 violates Deadline!
+Task 1- Release: 67.900, Completion: 68.292, Response: 0.392, WCRT: 1.997, Next Release: 68.200 ==> Task 1 violates Deadline!
+Overload detected!
+Task 1- Release: 68.200, Completion: 68.385, Response: 0.185, WCRT: 1.997, Next Release: 68.500
+Task 2- Release: 67.300, Completion: 68.481, Response: 1.181, WCRT: 2.940, Next Release: 67.700 ==> Task 2 violates Deadline!
+Task 1- Release: 68.500, Completion: 68.603, Response: 0.103, WCRT: 1.997, Next Release: 68.800
+Task 2- Release: 67.700, Completion: 68.677, Response: 0.977, WCRT: 2.940, Next Release: 68.100 ==> Task 2 violates Deadline!
+Task 2- Release: 68.100, Completion: 68.771, Response: 0.671, WCRT: 2.940, Next Release: 68.500 ==> Task 2 violates Deadline!
+Task 1- Release: 68.800, Completion: 68.896, Response: 0.096, WCRT: 1.997, Next Release: 69.100
+Task 2- Release: 68.500, Completion: 68.961, Response: 0.461, WCRT: 2.940, Next Release: 68.900 ==> Task 2 violates Deadline!
+Task 2- Release: 68.900, Completion: 69.057, Response: 0.157, WCRT: 2.940, Next Release: 69.300
+Task 1- Release: 69.100, Completion: 69.204, Response: 0.104, WCRT: 1.997, Next Release: 69.400
+Task 3- Release: 67.300, Completion: 69.246, Response: 1.946, WCRT: 4.661, Next Release: 67.900 ==> Task 3 violates Deadline!
+Task 2- Release: 69.300, Completion: 69.399, Response: 0.099, WCRT: 2.940, Next Release: 69.700
+Task 1- Release: 69.400, Completion: 69.520, Response: 0.120, WCRT: 1.997, Next Release: 69.700
+Task 3- Release: 67.900, Completion: 69.550, Response: 1.650, WCRT: 4.661, Next Release: 68.500 ==> Task 3 violates Deadline!
+Overload detected!
+Task 3- Release: 68.500, Completion: 69.644, Response: 1.144, WCRT: 4.661, Next Release: 69.100 ==> Task 3 violates Deadline!
+Task 1- Release: 69.700, Completion: 69.800, Response: 0.100, WCRT: 1.997, Next Release: 70.000
+Task 2- Release: 69.700, Completion: 69.913, Response: 0.213, WCRT: 2.940, Next Release: 70.100
+Task 3- Release: 69.100, Completion: 69.955, Response: 0.855, WCRT: 4.661, Next Release: 69.700 ==> Task 3 violates Deadline!
+Task 1- Release: 70.000, Completion: 70.098, Response: 0.098, WCRT: 1.997, Next Release: 70.300
+Task 2- Release: 70.100, Completion: 70.201, Response: 0.101, WCRT: 2.940, Next Release: 70.500
+Task 3- Release: 69.700, Completion: 70.247, Response: 0.547, WCRT: 4.661, Next Release: 70.300
+Task 1- Release: 70.300, Completion: 70.397, Response: 0.097, WCRT: 1.997, Next Release: 70.600
+Task 3- Release: 70.300, Completion: 70.494, Response: 0.194, WCRT: 4.661, Next Release: 70.900
+Task 1- Release: 70.600, Completion: 70.696, Response: 0.096, WCRT: 1.997, Next Release: 70.900
+Task 2- Release: 70.500, Completion: 70.699, Response: 0.199, WCRT: 2.940, Next Release: 70.900
+Overload detected!
+Task 4- Release: 67.300, Completion: 70.815, Response: 3.515, WCRT: 7.721, Next Release: 68.500 ==> Task 4 violates Deadline!
+Task 1- Release: 70.900, Completion: 71.005, Response: 0.105, WCRT: 1.997, Next Release: 71.200
+Task 2- Release: 70.900, Completion: 71.100, Response: 0.200, WCRT: 2.940, Next Release: 71.300
+Task 3- Release: 70.900, Completion: 71.193, Response: 0.293, WCRT: 4.661, Next Release: 71.500
+Task 1- Release: 71.200, Completion: 71.311, Response: 0.111, WCRT: 1.997, Next Release: 71.500
+Task 2- Release: 71.300, Completion: 71.405, Response: 0.105, WCRT: 2.940, Next Release: 71.700
+Task 4- Release: 68.500, Completion: 71.473, Response: 2.973, WCRT: 7.721, Next Release: 69.700 ==> Task 4 violates Deadline!
+Task 1- Release: 71.500, Completion: 71.600, Response: 0.100, WCRT: 1.997, Next Release: 71.800
+Task 3- Release: 71.500, Completion: 71.695, Response: 0.195, WCRT: 4.661, Next Release: 72.100
+Task 2- Release: 71.700, Completion: 71.795, Response: 0.095, WCRT: 2.940, Next Release: 72.100
+Task 1- Release: 71.800, Completion: 71.899, Response: 0.099, WCRT: 1.997, Next Release: 72.100
+Overload detected!
+Task 4- Release: 69.700, Completion: 72.038, Response: 2.338, WCRT: 7.721, Next Release: 70.900 ==> Task 4 violates Deadline!
+Task 1- Release: 72.100, Completion: 72.200, Response: 0.100, WCRT: 1.997, Next Release: 72.400
+Task 2- Release: 72.100, Completion: 72.305, Response: 0.205, WCRT: 2.940, Next Release: 72.500
+Task 3- Release: 72.100, Completion: 72.400, Response: Task 1- Release: 72.400, Completion: 72.495, Response: 0.095, WCRT: 1.997, Next Release: 72.700
+0.300, WCRT: 4.661, Next Release: 72.700
+Task 2- Release: 72.500, Completion: 72.597, Response: 0.097, WCRT: 2.940, Next Release: 72.900
+Task 1- Release: 72.700, Completion: 72.802, Response: 0.102, WCRT: 1.997, Next Release: 73.000
+Task 3- Release: 72.700, Completion: 72.897, Response: 0.197, WCRT: 4.661, Next Release: 73.300
+Task 2- Release: 72.900, Completion: 73.000, Response: 0.100, WCRT: 2.940, Next Release: 73.300
+Task 1- Release: 73.000, Completion: 73.094, Response: 0.094, WCRT: 1.997, Next Release: 73.300
+Task 4- Release: 70.900, Completion: 73.098, Response: 2.198, WCRT: 7.721, Next Release: 72.100 ==> Task 4 violates Deadline!
+Overload detected!
+Task 4- Release: 72.100, Completion: 73.286, Response: 1.186, WCRT: 7.721, Next Release: 73.300
+Reset
+Task 1- Release: 73.300, Completion: 73.400, Response: 0.100, WCRT: 1.997, Next Release: 73.600
+Task 2- Release: 73.300, Completion: 73.495, Response: 0.195, WCRT: 2.940, Next Release: 73.700
+Task 3- Release: 73.300, Completion: 73.590, Response: 0.290, WCRT: 4.661, Next Release: 73.900
+Task 1- Release: 73.600, Completion: 73.709, Response: 0.109, WCRT: 1.997, Next Release: 73.900
+Task 2- Release: 73.700, Completion: 73.817, Response: 0.117, WCRT: 2.940, Next Release: 74.100
+Task 1- Release: 73.900, Completion: 74.004, Response: 0.104, WCRT: 1.997, Next Release: 74.200
+Task 3- Release: 73.900, Completion: 74.098, Response: 0.198, WCRT: 4.661, Next Release: 74.500
+Task 2- Release: 74.100, Completion: 74.198, Response: 0.098, WCRT: 2.940, Next Release: 74.500
+Task 1- Release: 74.200, Completion: 74.311, Response: 0.111, WCRT: 1.997, Next Release: 74.500
+Task 4- Release: 73.300, Completion: 74.384, Response: 1.084, WCRT: 7.721, Next Release: 74.500
+Reset
+Task 1- Release: 74.500, Completion: 74.604, Response: 0.104, WCRT: 1.997, Next Release: 74.800
+Task 2- Release: 74.500, Completion: 74.708, Response: 0.208, WCRT: 2.940, Next Release: 74.900
+Task 3- Release: 74.500, Completion: 74.802, Response: Task 1- Release: 74.800, Completion: 74.897, Response: 0.097, WCRT: 1.997, Next Release: 75.100
+0.302, WCRT: 4.661, Next Release: 75.100
+Task 2- Release: 74.900, Completion: 75.003, Response: 0.103, WCRT: 2.940, Next Release: 75.300
+Task 1- Release: 75.100, Completion: 75.197, Response: 0.097, WCRT: 1.997, Next Release: 75.400
+Task 3- Release: 75.100, Completion: 75.292, Response: 0.192, WCRT: 4.661, Next Release: 75.700
+Task 1- Release: 75.400, Completion: 75.495, Response: 0.095, WCRT: 1.997, Next Release: 75.700
+Task 2- Release: 75.300, Completion: 75.497, Response: 0.197, WCRT: 2.940, Next Release: 75.700
+Task 4- Release: 74.500, Completion: 75.559, Response: 1.059, WCRT: 7.721, Next Release: 75.700
+Reset
+Task 1- Release: 75.700, Completion: 75.809, Response: 0.109, WCRT: 1.997, Next Release: 76.000
+Task 2- Release: 75.700, Completion: 75.910, Response: 0.210, WCRT: 2.940, Next Release: 76.100
+Task 1- Release: 76.000, Completion: 76.098, Response: 0.098, WCRT: 1.997, Next Release: 76.300
+Task 3- Release: 75.700, Completion: 76.100, Response: 0.400, WCRT: 4.661, Next Release: 76.300
+Task 2- Release: 76.100, Completion: 76.194, Response: 0.094, WCRT: 2.940, Next Release: 76.500
+Task 1- Release: 76.300, Completion: 76.400, Response: 0.100, WCRT: 1.997, Next Release: 76.600
+Task 3- Release: 76.300, Completion: 76.495, Response: 0.195, WCRT: 4.661, Next Release: 76.900
+Task 1- Release: 76.600, Completion: 76.700, Response: 0.100, WCRT: 1.997, Next Release: 76.900
+Task 2- Release: 76.500, Completion: 76.711, Response: 0.211, WCRT: 2.940, Next Release: 76.900
+Overload detected!
+Task 4- Release: 75.700, Completion: 76.762, Response: 1.062, WCRT: 7.721, Next Release: 76.900
+Reset
+Task 1- Release: 76.900, Completion: 77.000, Response: 0.100, WCRT: 1.997, Next Release: 77.200
+Task 2- Release: 76.900, Completion: 77.095, Response: 0.195, WCRT: 2.940, Next Release: 77.300
+Task 3- Release: 76.900, Completion: 77.199, Response: 0.299, WCRT: 4.661, Next Release: 77.500
+Task 1- Release: 77.200, Completion: 77.305, Response: 0.105, WCRT: 1.997, Next Release: 77.500
+Task 2- Release: 77.300, Completion: 77.401, Response: 0.101, WCRT: 2.940, Next Release: 77.700
+Task 1- Release: 77.500, Completion: 77.609, Response: 0.109, WCRT: 1.997, Next Release: 77.800
+Task 2- Release: 77.700, Completion: 77.798, Response: 0.098, WCRT: 2.940, Next Release: 78.100
+Task 3- Release: 77.500, Completion: 77.806, Response: 0.306, WCRT: 4.661, Next Release: Task 1- Release: 77.800, Completion: 77.900, Response: 0.100, WCRT: 1.997, Next Release: 78.100
+78.100
+Overload detected!
+Task 4- Release: 76.900, Completion: 77.985, Response: 1.085, WCRT: 7.721, Next Release: 78.100
+Reset
+Task 1- Release: 78.100, Completion: 79.087, Response: 0.987, WCRT: 1.997, Next Release: 78.400 ==> Task 1 violates Deadline!
+Task 1- Release: 78.400, Completion: 79.181, Response: 0.781, WCRT: 1.997, Next Release: 78.700 ==> Task 1 violates Deadline!
+Overload detected!
+Task 1- Release: 78.700, Completion: 79.275, Response: 0.575, WCRT: 1.997, Next Release: 79.000 ==> Task 1 violates Deadline!
+Task 1- Release: 79.000, Completion: 79.369, Response: 0.369, WCRT: 1.997, Next Release: 79.300 ==> Task 1 violates Deadline!
+Task 1- Release: 79.300, Completion: 79.463, Response: 0.163, WCRT: 1.997, Next Release: 79.600
+Task 2- Release: 78.100, Completion: 79.558, Response: 1.458, WCRT: 2.940, Next Release: 78.500 ==> Task 2 violates Deadline!
+Task 1- Release: 79.600, Completion: 79.703, Response: 0.103, WCRT: 1.997, Next Release: 79.900
+Task 2- Release: 78.500, Completion: 79.749, Response: 1.249, WCRT: 2.940, Next Release: 78.900 ==> Task 2 violates Deadline!
+Task 2- Release: 78.900, Completion: 79.845, Response: 0.945, WCRT: 2.940, Next Release: 79.300 ==> Task 2 violates Deadline!
+Task 1- Release: 79.900, Completion: 80.014, Response: 0.114, WCRT: 1.997, Next Release: 80.200
+Task 2- Release: 79.300, Completion: 80.037, Response: 0.737, WCRT: 2.940, Next Release: 79.700 ==> Task 2 violates Deadline!
+Task 2- Release: 79.700, Completion: 80.131, Response: 0.431, WCRT: 2.940, Next Release: 80.100 ==> Task 2 violates Deadline!
+Task 1- Release: 80.200, Completion: 80.313, Response: 0.113, WCRT: 1.997, Next Release: 80.500
+Task 2- Release: 80.100, Completion: 80.335, Response: 0.235, WCRT: 2.940, Next Release: 80.500
+Overload detected!
+Task 3- Release: 78.100, Completion: 80.430, Response: 2.330, WCRT: 4.661, Next Release: 78.700 ==> Task 3 violates Deadline!
+Task 1- Release: 80.500, Completion: 80.597, Response: 0.097, WCRT: 1.997, Next Release: 80.800
+Task 2- Release: 80.500, Completion: 80.695, Response: 0.195, WCRT: 2.940, Next Release: 80.900
+Task 3- Release: 78.700, Completion: 80.716, Response: 2.016, WCRT: 4.661, Next Release: 79.300 ==> Task 3 violates Deadline!
+Task 1- Release: 80.800, Completion: 80.915, Response: 0.115, WCRT: 1.997, Next Release: 81.100
+Task 2- Release: 80.900, Completion: 81.034, Response: 0.134, WCRT: 2.940, Next Release: 81.300
+Task 3- Release: 79.300, Completion: 81.049, Response: 1.749, WCRT: 4.661, Next Release: 79.900 ==> Task 3 violates Deadline!
+Task 1- Release: 81.100, Completion: 81.204, Response: 0.104, WCRT: 1.997, Next Release: 81.400
+Task 3- Release: 79.900, Completion: 81.241, Response: 1.341, WCRT: 4.661, Next Release: 80.500 ==> Task 3 violates Deadline!
+Task 2- Release: 81.300, Completion: 81.399, Response: 0.099, WCRT: 2.940, Next Release: 81.700
+Task 1- Release: 81.400, Completion: 81.502, Response: 0.102, WCRT: 1.997, Next Release: 81.700
+Task 3- Release: 80.500, Completion: 81.526, Response: 1.026, WCRT: 4.661, Next Release: 81.100 ==> Task 3 violates Deadline!
+Overload detected!
+Task 3- Release: 81.100, Completion: 81.621, Response: 0.521, WCRT: 4.661, Next Release: 81.700
+Task 1- Release: 81.700, Completion: 81.802, Response: 0.102, WCRT: 1.997, Next Release: 82.000
+Task 2- Release: 81.700, Completion: 81.900, Response: 0.200, WCRT: 2.940, Next Release: 82.100
+Task 3- Release: 81.700, Completion: 81.995, Response: 0.295, WCRT: 4.661, Next Release: 82.300
+Task 1- Release: 82.000, Completion: 82.099, Response: 0.099, WCRT: 1.997, Next Release: 82.300
+Task 2- Release: 82.100, Completion: 82.202, Response: 0.102, WCRT: 2.940, Next Release: 82.500
+Task 4- Release: 78.100, Completion: 82.285, Response: 4.185, WCRT: 7.721, Next Release: 79.300 ==> Task 4 violates Deadline!
+Task 1- Release: 82.300, Completion: 82.397, Response: 0.097, WCRT: 1.997, Next Release: 82.600
+Task 3- Release: 82.300, Completion: 82.491, Response: 0.191, WCRT: 4.661, Next Release: 82.900
+Task 1- Release: 82.600, Completion: 82.697, Response: 0.097, WCRT: 1.997, Next Release: 82.900
+Task 2- Release: 82.500, Completion: 82.698, Response: 0.198, WCRT: 2.940, Next Release: 82.900
+Overload detected!
+Task 4- Release: 79.300, Completion: 82.849, Response: 3.548, WCRT: 7.721, Next Release: 80.500 ==> Task 4 violates Deadline!
+Task 1- Release: 82.900, Completion: 82.995, Response: 0.095, WCRT: 1.997, Next Release: 83.200
+Task 2- Release: 82.900, Completion: 83.089, Response: 0.189, WCRT: 2.940, Next Release: 83.300
+Task 3- Release: 82.900, Completion: 83.183, Response: 0.283, WCRT: 4.661, Next Release: 83.500
+Task 1- Release: 83.200, Completion: 83.295, Response: 0.095, WCRT: 1.997, Next Release: 83.500
+Task 2- Release: 83.300, Completion: 83.409, Response: 0.109, WCRT: 2.940, Next Release: 83.700
+Task 4- Release: 80.500, Completion: 83.506, Response: 3.006, WCRT: 7.721, Next Release: 81.700 ==> Task 4 violates Deadline!
+Task 4- Release: 81.700, Completion: 83.691, Response: 1.991, WCRT: 7.721, Next Release: 82.900 ==> Task 4 violates Deadline!
+Task 4- Release: 82.900, Completion: 83.878, Response: 0.978, WCRT: 7.721, Next Release: 84.100
+Reset
+Overload detected!
+Task 1- Release: 83.500, Completion: 85.095, Response: 1.595, WCRT: 1.997, Next Release: 83.800 ==> Task 1 violates Deadline!
+Task 1- Release: 83.800, Completion: 85.197, Response: 1.397, WCRT: 1.997, Next Release: 84.100 ==> Task 1 violates Deadline!
+Task 1- Release: 84.100, Completion: 85.295, Response: 1.195, WCRT: 1.997, Next Release: 84.400 ==> Task 1 violates Deadline!
+Task 1- Release: 84.400, Completion: 85.390, Response: 0.990, WCRT: 1.997, Next Release: 84.700 ==> Task 1 violates Deadline!
+Task 1- Release: 84.700, Completion: 85.484, Response: 0.784, WCRT: 1.997, Next Release: 85.000 ==> Task 1 violates Deadline!
+Task 1- Release: 85.000, Completion: 85.578, Response: 0.578, WCRT: 1.997, Next Release: 85.300 ==> Task 1 violates Deadline!
+Task 1- Release: 85.300, Completion: 85.674, Response: 0.374, WCRT: 1.997, Next Release: 85.600 ==> Task 1 violates Deadline!
+Task 1- Release: 85.600, Completion: 85.771, Response: 0.171, WCRT: 1.997, Next Release: 85.900
+Task 2- Release: 83.700, Completion: 85.865, Response: 2.165, WCRT: 2.940, Next Release: 84.100 ==> Task 2 violates Deadline!
+Task 1- Release: 85.900, Completion: 86.026, Response: 0.126, WCRT: 1.997, Next Release: 86.200
+Task 2- Release: 84.100, Completion: 86.080, Response: 1.980, WCRT: 2.940, Next Release: 84.500 ==> Task 2 violates Deadline!
+Task 2- Release: 84.500, Completion: 86.174, Response: 1.674, WCRT: 2.940, Next Release: 84.900 ==> Task 2 violates Deadline!
+Overload detected!
+Task 1- Release: 86.200, Completion: 86.321, Response: 0.121, WCRT: 1.997, Next Release: 86.500
+Task 2- Release: 84.900, Completion: 86.363, Response: 1.463, WCRT: 2.940, Next Release: 85.300 ==> Task 2 violates Deadline!
+Task 2- Release: 85.300, Completion: 86.456, Response: 1.156, WCRT: 2.940, Next Release: 85.700 ==> Task 2 violates Deadline!
+Task 2- Release: 85.700, Completion: 86.549, Response: 0.849, WCRT: 2.940, Next Release: 86.100 ==> Task 2 violates Deadline!
+Task 2- Release: 86.100, Completion: 86.642, Response: 0.542, WCRT: 2.940, Next Release: 86.500 ==> Task 2 violates Deadline!
+Task 2- Release: 86.500, Completion: 86.734, Response: 0.234, WCRT: 2.940, Next Release: 86.900
+Task 3- Release: 83.500, Completion: 86.826, Response: 3.326, WCRT: 4.661, Next Release: 84.100 ==> Task 3 violates Deadline!
+Task 3- Release: 84.100, Completion: 86.918, Response: 2.818, WCRT: 4.661, Next Release: 84.700 ==> Task 3 violates Deadline!
+Task Task 1- Release: 86.500, Completion: 87.106, Response: 0.606, WCRT: 1.997, Next Release: 86.800 ==> Task 1 violates Deadline!
+Task 1- Release: 86.800, Completion: 87.294, Response: 0.494, WCRT: 1.997, Next Release: 87.100 ==> Task 1 violates Deadline!
+Task 1- Release: 87.100, Completion: 87.387, Response: 0.287, WCRT: 1.997, Next Release: 87.400
+Task 2- Release: 86.900, Completion: 87.200, Response: 0.300, WCRT: 2.940, Next Release: 87.300
+Overload detected!
+Task 1- Release: 87.400, Completion: 87.503, Response: 0.103, WCRT: 1.997, Next Release: 87.700
+Task 2- Release: 87.300, Completion: 87.575, Response: 0.275, WCRT: 2.940, Next Release: 87.700
+3- Release: 84.700, Completion: 87.013, Response: 2.313, WCRT: 4.661, Next Release: 85.300 ==> Task 3 violates Deadline!
+Task 3- Release: 85.300, Completion: 87.669, Response: 2.369, WCRT: 4.661, Next Release: 85.900 ==> Task 3 violates Deadline!
+Task 1- Release: 87.700, Completion: 87.800, Response: 0.100, WCRT: 1.997, Next Release: 88.000
+Task 2- Release: 87.700, Completion: 87.895, Response: 0.194, WCRT: 2.940, Next Release: 88.100
+Task 3- Release: 85.900, Completion: 87.949, Response: 2.049, WCRT: 4.661, Next Release: 86.500 ==> Task 3 violates Deadline!
+Task 1- Release: 88.000, Completion: 88.104, Response: 0.104, WCRT: 1.997, Next Release: 88.300
+Task 2- Release: 88.100, Completion: 88.199, Response: 0.099, WCRT: 2.940, Next Release: 88.500
+Task 3- Release: 86.500, Completion: 88.236, Response: 1.736, WCRT: 4.661, Next Release: 87.100 ==> Task 3 violates Deadline!
+Task 1- Release: 88.300, Completion: 88.401, Response: 0.101, WCRT: 1.997, Next Release: 88.600
+Task 3- Release: 87.100, Completion: 88.426, Response: 1.326, WCRT: 4.661, Next Release: 87.700 ==> Task 3 violates Deadline!
+Task 2- Release: 88.500, Completion: 88.598, Response: 0.098, WCRT: 2.940, Next Release: 88.900
+Task 1- Release: 88.600, Completion: 88.703, Response: 0.103Overload detected!
+, WCRT: 1.997, Next Release: 88.900
+Task 3- Release: 87.700, Completion: 88.716, Response: 1.016, WCRT: 4.661, Next Release: 88.300 ==> Task 3 violates Deadline!
+Task 3- Release: 88.300, Completion: 88.810, Response: 0.510, WCRT: 4.661, Next Release: 88.900
+Task 1- Release: 88.900, Completion: 89.016, Response: 0.116, WCRT: 1.997, Next Release: 89.200
+Task 2- Release: 88.900, Completion: 89.111, Response: 0.211, WCRT: 2.940, Next Release: 89.300
+Task 1- Release: 89.200, Completion: 89.304, Response: 0.104, WCRT: 1.997, Next Release: 89.500
+Task 2- Release: 89.300, Completion: 89.398, Response: 0.098, WCRT: 2.940, Next Release: 89.700
+Task 3- Release: 88.900, Completion: 89.411, Response: 0.511, WCRT: 4.661, Next Release: 89.500
+Task 1- Release: 89.500, Completion: 89.603, Response: 0.103, WCRT: 1.997, Next Release: 89.800
+Task 1- Release: 89.800, Completion: 89.896, Response: 0.096, WCRT: 1.997, Next Release: 90.100
+Task 2- Release: 89.700, Completion: 89.902, Response: 0.202, WCRT: 2.940, Next Release: 90.100
+Task 3- Release: 89.500, Completion: 89.904, Response: 0.404, WCRT: 4.661, Next Release: 90.100
+Task 4- Release: 84.100, Completion: 89.906, Response: 5.806, WCRT: 7.721, Next Release: 85.300 ==> Task 4 violates Deadline!
+Overload detected!
+Task 1- Release: 90.100, Completion: 90.195, Response: 0.095, WCRT: 1.997, Next Release: 90.400
+Task 2- Release: 90.100, Completion: 90.291, Response: 0.191, WCRT: 2.940, Next Release: 90.500
+Task 3- Release: 90.100, Completion: 90.395, Response: 0.295, WCRT: 4.661, Next Release: 90.700
+Task 4- Release: 85.300, Completion: 90.398, Response: 5.098, WCRT: 7.721, Next Release: 86.500 ==> Task 4 violates Deadline!
+Task 1- Release: 90.400, Completion: 90.505, Response: 0.105, WCRT: 1.997, Next Release: 90.700
+Task 2- Release: 90.500, Completion: 90.599, Response: 0.099, WCRT: 2.940, Next Release: 90.900
+Task 1- Release: 90.700, Completion: 90.803, Response: 0.103, WCRT: 1.997, Next Release: 91.000
+Task 3- Release: 90.700, Completion: 90.897, Response: 0.197, WCRT: 4.661, Next Release: 91.300
+Task 2- Release: 90.900, Completion: 90.999, Response: 0.099, WCRT: 2.940, Next Release: 91.300
+Task 1- Release: 91.000, Completion: 91.094, Response: 0.093, WCRT: 1.997, Next Release: 91.300
+Overload detected!
+Task 4- Release: 86.500, Completion: 91.165, Response: 4.665, WCRT: 7.721, Next Release: 87.700 ==> Task 4 violates Deadline!
+Task 1- Release: 91.300, Completion: 91.401, Response: 0.101, WCRT: 1.997, Next Release: 91.600
+Task 2- Release: 91.300, Completion: 91.495, Response: 0.195, WCRT: 2.940, Next Release: 91.700
+Task 3- Release: 91.300, Completion: 91.588, Response: 0.288, WCRT: 4.661, Next Release: 91.900
+Task 1- Release: 91.600, Completion: 91.708, Response: 0.108, WCRT: 1.997, Next Release: 91.900
+Task 2- Release: 91.700, Completion: 91.816, Response: 0.116, WCRT: 2.940, Next Release: 92.100
+Task 4- Release: 87.700, Completion: 91.843, Response: 4.143, WCRT: 7.721, Next Release: 88.900 ==> Task 4 violates Deadline!
+Task 1- Release: 91.900, Completion: 92.017, Response: 0.117, WCRT: 1.997, Next Release: 92.200
+Task 3- Release: 91.900, Completion: 92.111, Response: 0.211, WCRT: Task 1- Release: 92.200, Completion: 92.295, Response: 0.095, WCRT: 1.997, Next Release: 92.500
+Task 2- Release: 92.100, Completion: 92.298, Response: 0.198, WCRT: 2.940, Next Release: 92.500
+4.661, Next Release: 92.500
+Overload detected!
+Task 4- Release: 88.900, Completion: 92.412, Response: 3.512, WCRT: 7.721, Next Release: 90.100 ==> Task 4 violates Deadline!
+Task 1- Release: 92.500, Completion: 92.594, Response: 0.094, WCRT: 1.997, Next Release: 92.800
+Task 2- Release: 92.500, Completion: 92.688, Response: 0.188, WCRT: 2.940, Next Release: 92.900
+Task 3- Release: 92.500, Completion: 92.782, Response: 0.282, WCRT: 4.661, Next Release: 93.100
+Task 1- Release: 92.800, Completion: 92.904, Response: 0.104, WCRT: 1.997, Next Release: 93.100
+Task 2- Release: 92.900, Completion: 93.000, Response: 0.100, WCRT: 2.940, Next Release: 93.300
+Task 4- Release: 90.100, Completion: 93.073, Response: 2.973, WCRT: 7.721, Next Release: 91.300 ==> Task 4 violates Deadline!
+Task 1- Release: 93.100, Completion: 93.202, Response: 0.102, WCRT: 1.997, Next Release: 93.400
+Task 3- Release: 93.100, Completion: 93.296, Response: 0.196, WCRT: 4.661, Next Release: 93.700
+Task 2- Release: 93.300, Completion: 93.398, Response: 0.098, WCRT: 2.940, Next Release: 93.700
+Task 1- Release: 93.400, Completion: 93.500, Response: 0.100, WCRT: 1.997, Next Release: 93.700
+Overload detected!
+Task 4- Release: 91.300, Completion: 93.637, Response: 2.337, WCRT: 7.721, Next Release: 92.500 ==> Task 4 violates Deadline!
+Task 1- Release: 93.700, Completion: 93.801, Response: 0.101, WCRT: 1.997, Next Release: 94.000
+Task 2- Release: 93.700, Completion: 93.895, Response: 0.195, WCRT: 2.940, Next Release: 94.100
+Task 3- Release: 93.700, Completion: 94.000Task 1- Release: 94.000, Completion: 94.109, Response: 0.109, WCRT: 1.997, Next Release: 94.300
+Task 2- Release: 94.100, Completion: 94.203, Response: 0.103, WCRT: 2.940, Next Release: 94.500
+, Response: 0.300, WCRT: 4.661, Next Release: 94.300
+Task 1- Release: 94.300, Completion: 94.406, Response: 0.106, WCRT: 1.997, Next Release: 94.600
+Task 3- Release: 94.300, Completion: 94.501, Response: 0.201, WCRT: 4.661, Next Release: 94.900
+Task 2- Release: 94.500, Completion: 94.599, Response: 0.099, WCRT: 2.940, Next Release: 94.900
+Task 1- Release: 94.600, Completion: 94.702, Response: 0.102, WCRT: 1.997, Next Release: 94.900
+Task 4- Release: 92.500, Completion: 94.705, Response: 2.205, WCRT: 7.721, Next Release: 93.700 ==> Task 4 violates Deadline!
+Overload detected!
+Task 1- Release: 94.900, Completion: 95.002, Response: 0.102, WCRT: 1.997, Next Release: 95.200
+Task 2- Release: 94.900, Completion: 95.096, Response: 0.196, WCRT: 2.940, Next Release: 95.300
+Task 3- Release: 94.900, Completion: 95.190, Response: 0.290, WCRT: 4.661, Next Release: 95.500
+Task 4- Release: 93.700, Completion: 95.191, Response: 1.491, WCRT: 7.721, Next Release: 94.900 ==> Task 4 violates Deadline!
+Task 1- Release: 95.200, Completion: 95.312, Response: 0.112, WCRT: 1.997, Next Release: 95.500
+Task 2- Release: 95.300, Completion: 95.410, Response: 0.109, WCRT: 2.940, Next Release: 95.700
+Task 1- Release: 95.500, Completion: 95.598, Response: 0.098, WCRT: 1.997, Next Release: 95.800
+Task 3- Release: 95.500, Completion: 95.694, Response: 0.194, WCRT: 4.661, Next Release: 96.100
+Task 1- Release: 95.800, Completion: 95.896, Response: 0.096, WCRT: 1.997, Next Release: 96.100
+Task 2- Release: 95.700, Completion: 95.899, Response: 0.199, WCRT: 2.940, Next Release: 96.100
+Overload detected!
+Task 4- Release: 94.900, Completion: 95.969, Response: 1.068, WCRT: 7.721, Next Release: 96.100
+Reset
+Task 1- Release: 96.100, Completion: 96.195, Response: 0.095, WCRT: 1.997, Next Release: 96.400
+Task 2- Release: 96.100, Completion: 96.289, Response: 0.189, WCRT: 2.940, Next Release: 96.500
+Task 3- Release: 96.100, Completion: 96.382, Response: 0.282, WCRT: 4.661, Next Release: 96.700
+Task 1- Release: 96.400, Completion: 96.512, Response: 0.112, WCRT: 1.997, Next Release: 96.700
+Task 2- Release: 96.500, Completion: 96.606, Response: 0.106, WCRT: 2.940, Next Release: 96.900
+Task 1- Release: 96.700, Completion: 96.812, Response: 0.112, WCRT: 1.997, Next Release: 97.000
+Task 3- Release: 96.700, Completion: 96.906, Response: 0.206, WCRT: 4.661, Next Release: 97.300
+Task 2- Release: 96.900, Completion: 97.003, Response: 0.103, WCRT: 2.940, Next Release: 97.300
+Task 1- Release: 97.000, Completion: 97.098, Response: 0.098, WCRT: 1.997, Next Release: 97.300
+Task 4- Release: 96.100, Completion: 97.155, Response: 1.055, WCRT: 7.721, Next Release: 97.300
+Reset
+Task 1- Release: 97.300, Completion: 98.082, Response: 0.782, WCRT: 1.997, Next Release: 97.600 ==> Task 1 violates Deadline!
+Task 1- Release: 97.600, Completion: 98.175, Response: 0.575, WCRT: 1.997, Next Release: 97.900 ==> Task 1 violates Deadline!
+Task 1- Release: 97.900, Completion: 98.270, Response: 0.370, WCRT: 1.997, Next Release: 98.200 ==> Task 1 violates Deadline!
+Task 1- Release: 98.200, Completion: 98.364, Response: 0.164, WCRT: 1.997, Next Release: 98.500
+Overload detected!
+Task 2- Release: 97.300, Completion: 98.458, Response: 1.158, WCRT: 2.940, Next Release: 97.700 ==> Task 2 violates Deadline!
+Task 1- Release: 98.500, Completion: 98.620, Response: 0.120, WCRT: 1.997, Next Release: 98.800
+Task 2- Release: 97.700, Completion: 98.645, Response: 0.945, WCRT: 2.940, Next Release: 98.100 ==> Task 2 violates Deadline!
+Task 2- Release: 98.100, Completion: 98.752, Response: 0.652, WCRT: 2.940, Next Release: 98.500 ==> Task 2 violates Deadline!
+Task 1- Release: 98.800, Completion: 98.900, Response: 0.100, WCRT: 1.997, Next Release: 99.100
+Task 2- Release: 98.500, Completion: 98.940, Response: 0.440, WCRT: 2.940, Next Release: 98.900 ==> Task 2 violates Deadline!
+Task 2- Release: 98.900, Completion: 99.034, Response: 0.134, WCRT: 2.940, Next Release: 99.300
+Task 1- Release: 99.100, Completion: 99.208, Response: 0.108, WCRT: 1.997, Next Release: 99.400
+Task 3- Release: 97.300, Completion: 99.221, Response: 1.921, WCRT: 4.661, Next Release: 97.900 ==> Task 3 violates Deadline!
+Task 2- Release: 99.300, Completion: 99.395, Response: 0.095, WCRT: 2.940, Next Release: 99.700
+Task 1- Release: 99.400, Completion: 99.511, Response: 0.111, WCRT: 1.997, Next Release: 99.700
+Task 3- Release: 97.900, Completion: 99.518, Response: 1.618, WCRT: 4.661, Next Release: 98.500 ==> Task 3 violates Deadline!
+Overload detected!
+Task 3- Release: 98.500, Completion: 99.611, Response: 1.111, WCRT: 4.661, Next Release: 99.100 ==> Task 3 violates Deadline!
+Task 1- Release: 99.700, Completion: 99.798, Response: 0.098, WCRT: 1.997, Next Release: 100.000
+Task 2- Release: 99.700, Completion: 99.892, Response: 0.192, WCRT: 2.940, Next Release: 100.100
+Task 3- Release: 99.100, Completion: 99.896, Response: 0.796, WCRT: 4.661, Next Release: 99.700 ==> Task 3 violates Deadline!
+Task 3- Release: 99.700, Completion: 99.998, Response: 0.298, WCRT: 4.661, Next Release: 100.300
+Task 1- Release: 100.000, Completion: 100.110, Response: 0.110, WCRT: 1.997, Next Release: 100.300
+Task 2- Release: 100.100, Completion: 100.206, Response: 0.106, WCRT: 2.940, Next Release: 100.500
+Task 1- Release: 100.300, Completion: 100.396, Response: 0.096, WCRT: 1.997, Next Release: 100.600
+Task 3- Release: 100.300, Completion: Task 1- Release: 100.600, Completion: 100.694, Response: 0.094, WCRT: 1.997, Next Release: 100.900
+Task 2- Release: 100.500, Completion: 100.697, Response: 0.197, WCRT: 2.940, Next Release: 100.900
+100.505, Response: 0.205, WCRT: 4.661, Next Release: 100.900
+Overload detected!
+Task 4- Release: 97.300, Completion: 100.788, Response: 3.487, WCRT: 7.721, Next Release: 98.500 ==> Task 4 violates Deadline!
+Task 1- Release: 100.900, Completion: 101.008, Response: 0.108, WCRT: 1.997, Next Release: 101.200
+Task 2- Release: 100.900, Completion: 101.105, Response: 0.205, WCRT: 2.940, Next Release: 101.300
+Task 3- Release: 100.900, Completion: 101.198, Response: 0.298, WCRT: 4.661, Next Release: 101.500
+Task 1- Release: 101.200, Completion: 101.301, Response: 0.101, WCRT: 1.997, Next Release: 101.500
+Task 2- Release: 101.300, Completion: 101.396, Response: 0.096, WCRT: 2.940, Next Release: 101.700
+Task 4- Release: 98.500, Completion: 101.454, Response: 2.954, WCRT: 7.721, Next Release: 99.700 ==> Task 4 violates Deadline!
+Task 1- Release: 101.500, Completion: 101.603, Response: 0.103, WCRT: 1.997, Next Release: 101.800
+Task 2- Release: 101.700, Completion: 101.796, Response: 0.096, WCRT: 2.940, Next Release: 102.100
+Task 3- Release: 101.500, Completion: 101.801, Response: 0.301, WCRT: 4.661Task 1- Release: 101.800, Completion: 101.896, Response: 0.096, WCRT: 1.997, Next Release: 102.100
+, Next Release: 102.100
+Task 4- Release: 99.700, Completion: 102.028, Response: 2.328, WCRT: 7.721, Next Release: 100.900 ==> Task Overload detected!
+4 violates Deadline!
+Task 1- Release: 102.100, Completion: 102.204, Response: 0.104, WCRT: 1.997, Next Release: 102.400
+Task 2- Release: 102.100, Completion: 102.299, Response: 0.199, WCRT: 2.940, Next Release: 102.500
+Task 3- Release: 102.100, Completion: 102.393, Response: 0.293, WCRT: 4.661, Next Release: 102.700
+Task 1- Release: 102.400, Completion: 102.494, Response: 0.094, WCRT: 1.997, Next Release: 102.700
+Task 2- Release: 102.500, Completion: 102.598, Response: 0.098, WCRT: 2.940, Next Release: 102.900
+Task 1- Release: 102.700, Completion: 102.802, Response: 0.102, WCRT: 1.997, Next Release: 103.000
+Task 3- Release: 102.700, Completion: 102.897, Response: 0.197, WCRT: 4.661, Next Release: 103.300
+Task 4- Release: 100.900, Completion: 102.903, Response: 2.003, WCRT: 7.721, Next Release: 102.100 ==> Task 4 violates Deadline!
+Task 1- Release: 103.000, Completion: 103.101, Response: 0.101, WCRT: 1.997, Next Release: 103.300
+Task 2- Release: 102.900, Completion: 103.104, Response: 0.204, WCRT: 2.940, Next Release: 103.300
+Overload detected!
+Task 4- Release: 102.100, Completion: 103.279, Response: 1.179, WCRT: 7.721, Next Release: 103.300
+Reset
+Task 1- Release: 103.300, Completion: 103.404, Response: 0.104, WCRT: 1.997, Next Release: 103.600
+Task 2- Release: 103.300, Completion: 103.499, Response: 0.199, WCRT: 2.940, Next Release: 103.700
+Task 3- Release: 103.300, Completion: 103.595, Response: 0.295, WCRT: 4.661, Next Release: 103.900
+Task 1- Release: 103.600, Completion: 103.698, Response: 0.098, WCRT: 1.997, Next Release: 103.900
+Task 2- Release: 103.700, Completion: 103.801, Response: 0.101, WCRT: 2.940, Next Release: 104.100
+Task 1- Release: 103.900, Completion: 104.018, Response: 0.118, WCRT: 1.997, Next Release: 104.200
+Task 1- Release: 104.200, Completion: 104.295, Response: 0.095, WCRT: 1.997, Next Release: 104.500
+Task 2- Release: 104.100, Completion: 104.297, Response: 0.196, WCRT: 2.940, Next Release: 104.500
+Task 3- Release: 103.900, Completion: 104.302, Response: 0.402, WCRT: 4.661, Next Release: 104.500
+Task 4- Release: 103.300, Completion: 104.349, Response: 1.049, WCRT: 7.721, Next Release: 104.500
+Reset
+Task 1- Release: 104.500, Completion: 104.596, Response: 0.096, WCRT: 1.997, Next Release: 104.800
+Task 2- Release: 104.500, Completion: 104.694, Response: 0.194, WCRT: 2.940, Next Release: 104.900
+Task 3- Release: 104.500, Completion: 104.788, Response: 0.288, WCRT: 4.661, Next Release: 105.100
+Task 1- Release: 104.800, Completion: 104.904, Response: 0.104, WCRT: 1.997, Next Release: 105.100
+Task 2- Release: 104.900, Completion: 105.016, Response: 0.116, WCRT: 2.940, Next Release: 105.300
+Task 1- Release: 105.100, Completion: 105.206, Response: 0.106, WCRT: 1.997, Next Release: 105.400
+Task 2- Release: 105.300, Completion: 105.399, Response: 0.099, WCRT: 2.940, Next Release: 105.700
+Task 3- Release: 105.100, Completion: 105.407, Response: 0.307, WCRT: 4.661, Next Release: 105.700
+Task 1- Release: 105.400, Completion: 105.500, Response: 0.100, WCRT: 1.997, Next Release: 105.700
+Overload detected!
+Task 4- Release: 104.500, Completion: 105.574, Response: 1.074, WCRT: 7.721, Next Release: 105.700
+Reset
+Task 1- Release: 105.700, Completion: 105.799, Response: 0.099, WCRT: 1.997, Next Release: 106.000
+Task 2- Release: 105.700, Completion: 105.894, Response: 0.194, WCRT: 2.940, Next Release: 106.100
+Task 3- Release: 105.700, Completion: 105.991, Response: 0.291, WCRT: 4.661, Next Release: 106.300
+Task 1- Release: 106.000, Completion: 106.097, Response: 0.097, WCRT: 1.997, Next Release: 106.300
+Task 2- Release: 106.100, Completion: 106.201, Response: 0.101, WCRT: 2.940, Next Release: 106.500
+Task 1- Release: 106.300, Completion: 106.394, Response: 0.094, WCRT: 1.997, Next Release: 106.600
+Task 3- Release: 106.300, Completion: 106.490, Response: 0.190, WCRT: 4.661, Next Release: 106.900
+Task 1- Release: 106.600, Completion: 106.704, Response: 0.104, WCRT: 1.997, Next Release: 106.900
+Task 2- Release: 106.500, Completion: 106.708, Response: 0.208, WCRT: 2.940, Next Release: 106.900
+Task 4- Release: 105.700, Completion: 106.762, Response: 1.062, WCRT: 7.721, Next Release: 106.900
+Reset
+Task 1- Release: 106.900, Completion: 107.004, Response: 0.104, WCRT: 1.997, Next Release: 107.200
+Task 2- Release: 106.900, Completion: 107.097, Response: 0.197, WCRT: 2.940, Next Release: 107.300
+Task 3- Release: 106.900, Completion: 107.192, Response: 0.292, WCRT: 4.661, Next Release: 107.500
+Task 1- Release: 107.200, Completion: 107.311, Response: 0.111, WCRT: 1.997, Next Release: 107.500
+Task 2- Release: 107.300, Completion: 107.405, Response: 0.105, WCRT: 2.940, Next Release: 107.700
+Task 1- Release: 107.500, Completion: 107.598, Response: 0.098, WCRT: 1.997, Next Release: 107.800
+Task 3- Release: 107.500, Completion: 107.693, Response: 0.193, WCRT: 4.661, Next Release: 108.100
+Task 1- Release: 107.800, Completion: 107.897, Response: 0.097, WCRT: 1.997, Next Release: 108.100
+Task 2- Release: 107.700, Completion: 107.901, Response: 0.201, WCRT: 2.940, Next Release: 108.100
+Task 4- Release: 106.900, Completion: 107.956, Response: 1.056, WCRT: 7.721, Next Release: 108.100
+Reset
+Task 1- Release: 108.100, Completion: 108.196, Response: 0.096, WCRT: 1.997, Next Release: 108.400
+Task 2- Release: 108.100, Completion: 108.289, Response: 0.189, WCRT: 2.940, Next Release: 108.500
+Task 3- Release: 108.100, Completion: 108.383, Response: 0.283, WCRT: 4.661, Next Release: 108.700
+Task 1- Release: 108.400, Completion: 108.503, Response: 0.103, WCRT: 1.997, Next Release: 108.700
+Task 2- Release: 108.500, Completion: 108.599, Response: 0.099, WCRT: 2.940, Next Release: 108.900
+Task 1- Release: 108.700, Completion: 108.809, Response: 0.109, WCRT: 1.997, Next Release: 109.000
+Task 2- Release: 108.900, Completion: 108.999, Response: 0.099, WCRT: 2.940, Next Release: 109.300
+Task 3- Release: 108.700, Completion: 109.006, Response: 0.306, WCRT: 4.661, Next Release: 109.300
+Task 1- Release: 109.000, Completion: 109.104, Response: 0.103, WCRT: 1.997, Next Release: 109.300
+Overload detected!
+Task 4- Release: 108.100, Completion: 109.161, Response: 1.061, WCRT: 7.721, Next Release: 109.300
+Reset
+Task 1- Release: 109.300, Completion: 109.402, Response: 0.102, WCRT: 1.997, Next Release: 109.600
+Task 2- Release: 109.300, Completion: 109.502, Response: 0.202, WCRT: 2.940, Next Release: 109.700
+Task 3- Release: 109.300, Completion: 109.601, Response: 0.301, WCRT: Task 1- Release: 109.600, Completion: 109.699, Response: 0.099, WCRT: 1.997, Next Release: 109.900
+4.661, Next Release: 109.900
+Task 2- Release: 109.700, Completion: 109.801, Response: 0.101, WCRT: 2.940, Next Release: 110.100
+Task 1- Release: 109.900, Completion: 109.998, Response: 0.098, WCRT: 1.997, Next Release: 110.200
+Task 3- Release: 109.900, Completion: 110.093, Response: 0.193, WCRT: 4.661, Next Release: 110.500
+Task 1- Release: 110.200, Completion: 110.294, Response: 0.094, WCRT: 1.997, Next Release: 110.500
+Task 2- Release: 110.100, Completion: 110.311, Response: 0.211, WCRT: 2.940, Next Release: 110.500
+Task 4- Release: 109.300, Completion: 110.364, Response: 1.064, WCRT: 7.721, Next Release: 110.500
+Reset
+Task 1- Release: 110.500, Completion: 110.611, Response: 0.111, WCRT: 1.997, Next Release: 110.800
+Task 2- Release: 110.500, Completion: 110.710, Response: 0.210, WCRT: 2.940, Next Release: 110.900
+Task 1- Release: 110.800, Completion: 110.898, Response: 0.098, WCRT: 1.997, Next Release: 111.100
+Task 3- Release: 110.500, Completion: 110.900, Response: 0.400, WCRT: 4.661, Next Release: 111.100
+Task 2- Release: 110.900, Completion: 110.995, Response: 0.095, WCRT: 2.940, Next Release: 111.300
+Task 1- Release: 111.100, Completion: 111.197, Response: 0.097, WCRT: 1.997, Next Release: 111.400
+Task 3- Release: 111.100, Completion: 111.291, Response: 0.191, WCRT: 4.661, Next Release: 111.700
+Task 2- Release: 111.300, Completion: 111.402Task 1- Release: 111.400, Completion: 111.497, Response: 0.097, WCRT: 1.997, Next Release: 111.700
+, Response: 0.102, WCRT: 2.940, Next Release: 111.700
+Task 4- Release: 110.500, Completion: 111.562, Response: 1.062, WCRT: 7.721, Next Release: 111.700
+Reset
+Task 1- Release: 111.700, Completion: 111.793, Response: 0.093, WCRT: 1.997, Next Release: 112.000
+Task 2- Release: 111.700, Completion: 111.886, Response: 0.186, WCRT: 2.940, Next Release: 112.100
+Task 3- Release: 111.700, Completion: 111.982, Response: 0.282, WCRT: 4.661, Next Release: 112.300
+Task 1- Release: 112.000, Completion: 112.095, Response: 0.095, WCRT: 1.997, Next Release: 112.300
+Task 2- Release: 112.100, Completion: 112.202, Response: 0.102, WCRT: 2.940, Next Release: 112.500
+Task 1- Release: 112.300, Completion: 112.407, Response: 0.107, WCRT: 1.997, Next Release: 112.600
+Task 2- Release: 112.500, Completion: 112.597, Response: 0.097, WCRT: 2.940, Next Release: 112.900
+Task 3- Release: 112.300, Completion: 112.602, Response: 0.302, WCRT: Task 1- Release: 112.600, Completion: 112.697, Response: 0.097, WCRT: 1.997, Next Release: 112.900
+4.661, Next Release: 112.900
+Task 4- Release: 111.700, Completion: 112.751, Response: 1.051, WCRT: 7.721, Next Release: 112.900
+Reset
+Task 1- Release: 112.900, Completion: 113.012, Response: 0.112, WCRT: 1.997, Next Release: 113.200
+Task 2- Release: 112.900, Completion: 113.105, Response: 0.205, WCRT: 2.940, Next Release: 113.300
+Task 3- Release: 112.900, Completion: 113.200, Response: Task 1- Release: 113.200, Completion: 113.294, Response: 0.094, WCRT: 1.997, Next Release: 113.500
+0.300, WCRT: 4.661, Next Release: 113.500
+Task 2- Release: 113.300, Completion: 113.400, Response: 0.100, WCRT: 2.940, Next Release: 113.700
+Task 1- Release: 113.500, Completion: 113.595, Response: 0.095, WCRT: 1.997, Next Release: 113.800
+Task 3- Release: 113.500, Completion: 113.697, Response: 0.197, WCRT: 4.661, Next Release: 114.100
+Task 1- Release: 113.800, Completion: 113.895, Response: 0.095, WCRT: 1.997, Next Release: 114.100
+Task 2- Release: 113.700, Completion: 113.899, Response: 0.198, WCRT: 2.940, Next Release: 114.100
+Overload detected!
+Task 4- Release: 112.900, Completion: 113.966, Response: 1.066, WCRT: 7.721, Next Release: 114.100
+Reset
+Task 1- Release: 114.100, Completion: 114.203, Response: 0.103, WCRT: 1.997, Next Release: 114.400
+Task 2- Release: 114.100, Completion: 114.298, Response: 0.198, WCRT: 2.940, Next Release: 114.500
+Task 3- Release: 114.100, Completion: 114.392, Response: 0.292, WCRT: 4.661, Next Release: 114.700
+Task 1- Release: 114.400, Completion: 114.528, Response: 0.128, WCRT: 1.997, Next Release: 114.700
+Task 2- Release: 114.500, Completion: 114.623, Response: 0.123, WCRT: 2.940, Next Release: 114.900
+Task 1- Release: 114.700, Completion: 114.798, Response: 0.098, WCRT: 1.997, Next Release: 115.000
+Task 3- Release: 114.700, Completion: 114.892, Response: 0.192, WCRT: 4.661, Next Release: 115.300
+Task 2- Release: 114.900, Completion: 115.004, Response: 0.104, WCRT: 2.940Task 1- Release: 115.000, Completion: 115.100, Response: 0.100, WCRT: 1.997, Next Release: 115.300
+, Next Release: 115.300
+Task 4- Release: 114.100, Completion: 115.165, Response: 1.065, WCRT: 7.721, Next Release: 115.300
+Reset
+Task 1- Release: 115.300, Completion: 115.397, Response: 0.097, WCRT: 1.997, Next Release: 115.600
+Task 2- Release: 115.300, Completion: 115.491, Response: 0.191, WCRT: 2.940, Next Release: 115.700
+Task 3- Release: 115.300, Completion: 115.584, Response: 0.284, WCRT: 4.661, Next Release: 115.900
+Task 1- Release: 115.600, Completion: 115.700, Response: 0.100, WCRT: 1.997, Next Release: 115.900
+Task 2- Release: 115.700, Completion: 115.795, Response: 0.095, WCRT: 2.940, Next Release: 116.100
+Task 1- Release: 115.900, Completion: 116.010, Response: 0.110, WCRT: 1.997, Next Release: 116.200
+Task 3- Release: 115.900, Completion: 116.105, Response: 0.205, WCRT: 4.661, Next Release: 116.500
+Task 1- Release: 116.200, Completion: 116.308, Response: 0.108, WCRT: 1.997, Next Release: 116.500
+Task 2- Release: 116.100, Completion: 116.311, Response: 0.211, WCRT: 2.940, Next Release: 116.500
+Overload detected!
+Task 4- Release: 115.300, Completion: 116.369, Response: 1.069, WCRT: 7.721, Next Release: 116.500
+Reset
+Task 1- Release: 116.500, Completion: 116.602, Response: 0.102, WCRT: 1.997, Next Release: 116.800
+Task 2- Release: 116.500, Completion: 116.697, Response: 0.197, WCRT: 2.940, Next Release: 116.900
+Task 3- Release: 116.500, Completion: 116.804, Response: Task 1- Release: 116.800, Completion: 116.908, Response: 0.108, WCRT: 1.997, Next Release: 117.100
+Task 2- Release: 116.900, Completion: 117.001, Response: 0.101, WCRT: 2.940, Next Release: 117.300
+0.304, WCRT: 4.661, Next Release: 117.100
+Task 1- Release: 117.100, Completion: 117.195, Response: 0.095, WCRT: 1.997, Next Release: 117.400
+Task 3- Release: 117.100, Completion: 117.290, Response: 0.190, WCRT: 4.661, Next Release: 117.700
+Task 1- Release: 117.400, Completion: 117.499, Response: 0.099, WCRT: 1.997, Next Release: 117.700
+Task 2- Release: 117.300, Completion: 117.500, Response: 0.200, WCRT: 2.940, Next Release: 117.700
+Task 4- Release: 116.500, Completion: 117.571, Response: 1.071, WCRT: Overload detected!
+7.721, Next Release: 117.700
+Reset
+Task 1- Release: 117.700, Completion: 117.804, Response: 0.104, WCRT: 1.997, Next Release: 118.000
+Task 2- Release: 117.700, Completion: 117.897, Response: 0.197, WCRT: 2.940, Next Release: 118.100
+Task 3- Release: 117.700, Completion: 117.992, Response: 0.292, WCRT: 4.661, Next Release: 118.300
+Task 1- Release: 118.000, Completion: 118.102, Response: 0.102, WCRT: 1.997, Next Release: 118.300

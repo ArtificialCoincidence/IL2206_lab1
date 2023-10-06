@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/IL2206_LAB1/producerconsumer_rndvzs/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/IL2206_LAB1/producerconsumer_sem/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 51" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/IL2206_LAB1/producerconsumer_sem/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/IL2206_LAB1/producerconsumer_rndvzs/producerconsumer_rndvzs.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/IL2206_LAB1/producerconsumer_rndvzs/src/main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/producerconsumer_sem.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_rndvzs/producerconsumer_rndvzs.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 3">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_prot/producerconsumer_prot.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 19">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_prot/src/Buffer.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_prot/src/Buffer.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/producerconsumer_sem.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/src/semaphores.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/src/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/src/semaphores.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/producerconsumer_sem.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >/Users/dairuijia/Software/GNAT/projects/producerconsumer_sem/src/main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,22 @@
+[MAPPING FILE]
+/private/var/folders/wd/d42cj02n1ld1rl4ylht29dwm0000gn/T/GNAT-TEMP-000003.TMP
+[TOOLCHAIN VERSION]
+ada
+GNAT 2019
+[MAIN BASE NAME]
+semaphores
+[COMPILER PATH]
+/users/dairuijia/software/gnat/bin/gcc
+[COMPILER LEADING SWITCHES]
+-c
+-x
+ada
+-gnatA
+[MAIN DEPENDENCY FILE]
+/Users/dairuijia/Software/GNAT/projects/obj/semaphores.ali
+[DEPENDENCY FILES]
+[BINDING OPTIONS]
+gnatbind_prefix=
+[PROJECT FILES]
+/Users/dairuijia/Software/GNAT/projects/semaphores.gpr
+20230915210109

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 17" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 13" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 131" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GPS/lib/gcc/x86_64-apple-darwin17.7.0/8.3.1/rts-native/adainclude/s-excmac.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 13" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 10" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 10" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 10" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 3" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/semaphores.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 4" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/semaphores.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/dairuijia/Software/GNAT/projects/src/semaphores.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

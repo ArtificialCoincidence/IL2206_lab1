@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/Users/dairuijia/Software/GNAT/projects/semaphores/semaphores.gpr
+20230915210317
+[BOUND OBJECT FILES]
+/Users/dairuijia/Software/GNAT/projects/semaphores/obj/semaphores.o
+/Users/dairuijia/Software/GNAT/projects/semaphores/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/Users/dairuijia/Software/GNAT/projects/semaphores/obj/
+-L/Users/dairuijia/Software/GNAT/projects/semaphores/obj/
+-L/users/dairuijia/software/gnat/lib/gcc/x86_64-apple-darwin17.7.0/8.3.1/adalib/
+-static
+/users/dairuijia/software/gnat/lib/gcc/x86_64-apple-darwin17.7.0/8.3.1/adalib/libgnarl.a
+/users/dairuijia/software/gnat/lib/gcc/x86_64-apple-darwin17.7.0/8.3.1/adalib/libgnat.a

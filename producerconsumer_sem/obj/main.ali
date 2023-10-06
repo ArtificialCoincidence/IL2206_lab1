@@ -1,0 +1,183 @@
+V "GNAT Lib v2019"
+M P W=b
+A -gnatA
+A -mtune=core2
+A -mmacosx-version-min=10.18.0
+A -fPIC
+P ZX
+
+RN
+RV NO_DELAY
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTION_PROPAGATION
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_LOCAL_PROTECTED_OBJECTS
+RV NO_NESTED_FINALIZATION
+RV NO_SECONDARY_STACK
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_TASK_HIERARCHY
+RV NO_TASKING
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+RV SPARK_05
+RV MAX_TASKS=1+
+RV MAX_ENTRY_QUEUE_LENGTH=1+
+
+U main%b		main.adb		87961c22 NE OO SU IL
+W ada%s			ada.ads			ada.ali
+Z ada.exceptions%s	a-except.adb		a-except.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.discrete_random%s
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+Z ada.real_time.delays%s  a-retide.adb		a-retide.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z interfaces%s		interfac.ads		interfac.ali
+W semaphores%s		semaphores.adb		semaphores.ali
+W system%s		system.ads		system.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.img_int%s	s-imgint.adb		s-imgint.ali
+Z system.parameters%s	s-parame.adb		s-parame.ali
+Z system.random_numbers%s  s-rannum.adb		s-rannum.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.standard_library%s  s-stalib.adb	s-stalib.ali
+Z system.task_info%s	s-tasinf.adb		s-tasinf.ali
+Z system.tasking%s	s-taskin.adb		s-taskin.ali
+Z system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+Z system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+Z system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20190518041255 76789da1 ada%s
+D a-except.ads		20190518041255 291912d5 ada.exceptions%s
+D a-finali.ads		20190518041255 bf4f806b ada.finalization%s
+D a-ioexce.ads		20190518041254 e4a01f64 ada.io_exceptions%s
+D a-numeri.ads		20190518041254 bb51c45a ada.numerics%s
+D a-nudira.ads		20190518041254 71e55def ada.numerics.discrete_random%s
+D a-nudira.adb		20190518041254 72908cdb ada.numerics.discrete_random%b
+D a-reatim.ads		20190518041256 0240fc73 ada.real_time%s
+D a-retide.ads		20190518041257 081cdaa4 ada.real_time.delays%s
+D a-stream.ads		20190518041255 119b8fb3 ada.streams%s
+D a-tags.ads		20190518041256 491b781d ada.tags%s
+D a-textio.ads		20190518041256 aef4d56d ada.text_io%s
+D a-unccon.ads		20190518041255 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20190518041254 5ab55268 interfaces%s
+D i-c.ads		20190518041254 5421119b interfaces.c%s
+D i-cstrea.ads		20190518041254 e53d8b8e interfaces.c_streams%s
+D main.adb		20230920204434 7e4cb3d5 main%b
+D semaphores.ads	20230918071003 248bdb06 semaphores%s
+D system.ads		20190518041255 085b6ffb system%s
+D s-atacco.ads		20190518041256 4c36d12f system.address_to_access_conversions%s
+D s-conca2.ads		20190518041255 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20190518041254 0ebbdb71 system.crtl%s
+D s-exctab.ads		20190518041255 54135002 system.exception_table%s
+D s-ficobl.ads		20190518041256 078245e4 system.file_control_block%s
+D s-finroo.ads		20190518041256 4ff27390 system.finalization_root%s
+D s-imgint.ads		20190518041254 02dbe0c2 system.img_int%s
+D s-imguns.ads		20190518041255 9ff43cf7 system.img_uns%s
+D s-memory.ads		20190518041255 597d6634 system.memory%s
+D s-multip.ads		20190518041254 38ac9f73 system.multiprocessors%s
+D s-oscons.ads		20190518124528 e40aaf2d system.os_constants%s
+D s-osinte.ads		20190518041257 01b3ad47 system.os_interface%s
+D s-parame.ads		20190518041256 48ec542b system.parameters%s
+D s-rannum.ads		20190518041255 99ade2f2 system.random_numbers%s
+D s-rannum.adb		20190518041256 20ba1217 system.random_numbers%b
+D s-ransee.ads		20190518041256 01a57b33 system.random_seed%s
+D s-secsta.ads		20190518041256 20bbe636 system.secondary_stack%s
+D s-soflin.ads		20190518041255 a7318a92 system.soft_links%s
+D s-stache.ads		20190518041256 a37c21ec system.stack_checking%s
+D s-stausa.ads		20190518041255 017a0a05 system.stack_usage%s
+D s-stalib.ads		20190518041256 09bd3940 system.standard_library%s
+D s-stalib.adb		20190518041254 f2fe2716 system.standard_library%b
+D s-stoele.ads		20190518041256 2dc34a04 system.storage_elements%s
+D s-tasinf.ads		20190518041256 801abd01 system.task_info%s
+D s-taspri.ads		20190518041256 f40ac08d system.task_primitives%s
+D s-taprop.ads		20190518041256 1dd2e1b6 system.task_primitives.operations%s
+D s-taskin.ads		20190518041257 b9d612e2 system.tasking%s
+D s-taprob.ads		20190518041256 acd6094d system.tasking.protected_objects%s
+D s-tpoben.ads		20190518041257 60ad3dae system.tasking.protected_objects.entries%s
+D s-tpobop.ads		20190518041257 5f548bb3 system.tasking.protected_objects.operations%s
+D s-tassta.ads		20190518041256 cca55c94 system.tasking.stages%s
+D s-traent.ads		20190518041254 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20190518041255 34867c83 system.unsigned_types%s
+D s-valuns.ads		20190518041256 35067db9 system.val_uns%s
+D s-wchcon.ads		20190518041255 1b7d22d2 system.wch_con%s
+G a e
+G c Z b b [main standard 12 11 none]
+G r s countingsemaphore [main standard 12 11 none] [countingsemaphoreVIP semaphores 6 4 none]
+G r l countingsemaphore [main standard 12 11 none] [countingsemaphoreVDI semaphores 6 4 none]
+G r k countingsemaphore [main standard 12 11 none] [countingsemaphoreVDF semaphores 6 4 none]
+G r o none [main standard 12 11 none] [wait semaphores__countingsemaphore 7 13 none]
+G r o none [main standard 12 11 none] [signal semaphores__countingsemaphore 8 13 none]
+X 1 ada.ads
+16K9*Ada 20e8 17|1r6 2r5 4r6 5r5 7r6 26r32
+X 5 a-numeri.ads
+16K13*Numerics 32e17 17|7r10 26r36
+X 6 a-nudira.ads
+44k22*Discrete_Random 75e33 17|7w19 26r45
+50R9 Generator<33|63R9> 17|28r8[26]
+52V13 Random{integer} 17|57s38[26] 78s38[26]
+X 7 a-nudira.adb
+53V16 Random[33|83]{integer} 34|392b13[17|26]
+X 8 a-reatim.ads
+39K13*Real_Time 185e18 17|4w10 5r9
+49O9*Time<duration> 17|43r14 63r14
+54O9*Time_Span<duration>
+61V13*Clock{49O9} 17|45s15 66s15
+65V14*"+"{49O9} 17|57s23 78s23
+119V13*Milliseconds{54O9} 17|57s25 78s25
+X 12 a-textio.ads
+57K13*Text_IO 727e16 17|1w10 2r9
+508U14*Put_Line 17|53s10 74s10
+X 14 interfac.ads
+74M9*Unsigned_32
+77M9*Unsigned_64
+X 17 main.adb
+12U11*main 12b11 88l5 88t9
+14i9 N{integer} 46r19 67r19
+15i9 X{integer} 83r36 84r36
+18i9 Size{integer} 19r27 34r42 34r48 35r43
+19M14 Index 20r34 22r34
+20A14 Item_Array(integer)<19M14> 21r13
+21a9 B{20A14} 51m10 72r15
+22m9 In_Ptr{19M14} 51r12 52m10 52r20
+22m17 Out_Ptr{19M14} 72r17 73m10 73r21
+22m26 Count{19M14}
+25I12 Delay_Interval{integer} 26r62
+26K12 Random_Delay[6|44] 27r8
+28r4 G{6|50R9[26]} 57r45 78r45
+34w4 NotFull{18|6W19} 48r10 71r10
+35w4 NotEmpty{18|6W19} 50r10 69r10
+36w4 AtomicAccess{18|6W19} 49r10 54r10 70r10 75r10
+38T14 Producer 42b14 60t7 83r42
+40T14 Consumer 62b14 81t7 84r42
+43o7 Next{8|49O9} 45m7 57m10 57r18
+46i11 I{integer} 51r23 53r29
+63o7 Next{8|49O9} 66m7 78m10 78r18 79r22
+64i7 X{integer} 72m10
+67i11 I{integer} 74r28
+83a9 P(38T14)
+84a9 C(40T14)
+X 18 semaphores.ads
+5K9*Semaphores 17|9w6 10r5 34r13 35r14 36r18 18|13e15
+6W19*CountingSemaphore 17|34r24 35r25 36r29 18|12e25
+7Y13 Wait 17|48s18 49s23 69s19 70s23
+8Y13 Signal 17|50s19 54s23 71s18 75s23
+X 19 system.ads
+67M9*Address
+X 28 s-memory.ads
+53V13*Alloc{19|67M9} 103i<c,__gnat_malloc>22
+68U14*Free 104i<c,__gnat_free>22
+76V13*Realloc{19|67M9} 105i<c,__gnat_realloc>22
+X 33 s-rannum.ads
+75V13*Random{14|74M9} 34|221i21
+76V13*Random{14|77M9} 34|221i21
+X 39 s-stausa.ads
+203U14*Initialize 204i<c,__gnat_stack_usage_initialize>22
+268U14*Output_Results 272i<c,__gnat_stack_usage_output_results>22
+X 41 s-stalib.adb
+93U14 Break_Start 94i<c,__gnat_break_start>22
+
